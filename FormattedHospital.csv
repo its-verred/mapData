@@ -1,3 +1,1011 @@
-Hospital_Name,Location,State,District,Discipline_Systems_of_Medicine,Lat,Lon
-Chakraborty Multi Speciality Hospital,Near Dollygunj Junction,Andaman and Nicobar Islands,South Andaman,Allopathic,11.6357989,92.7120575
-test,dum location,Uttarakhand,Champawat,None,10.6357989,92.7120575
+Hospital_Name,Location,Location_Coordinates,State,District,Discipline_Systems_of_Medicine,Lat,Lon
+Chakraborty Multi Speciality Hospital,Near Dollygunj Junction,"11.6357989, 92.7120575",Andaman and Nicobar Islands,South Andaman,Allopathic,11.6357989,92.7120575
+Inhs Dhanvantri,Medical Board Office,"11.8311681, 92.6586401",Andaman and Nicobar Islands,South Andaman,Allopathic,11.8311681,92.6586401
+Maricar Hospital,Near Masjid,"11.8311681, 92.6586401",Andaman and Nicobar Islands,South Andaman,Allopathic,11.8311681,92.6586401
+Pillar Health Centre,"Lamba Line, P.B. No. 526","11.6498468, 92.7294624",Andaman and Nicobar Islands,South Andaman,Allopathic,11.6498468,92.7294624
+"G B Pant Hospital, Port Blair","GB Pant Road, City Centre, Port Blair","11.6233774, 92.7264828",Andaman and Nicobar Islands,South Andaman,Allopathic,11.6233774,92.7264828
+"Care Hospital, Banjara","Road No.1, Banjara Hills","17.4274003, 78.4311174",Andhra Pradesh,Hyderabad,Allopathic,17.4274003,78.4311174
+L V Prasad Eye Institute,"Kallam Anji Reddy Campus, L V Prasad Marg, Banjara Hills","17.4230892, 78.42647",Andhra Pradesh,Hyderabad,Allopathic,17.4230892,78.42647
+Apollo Hospitals,Jubilee Hills,"17.4325235, 78.4070152",Andhra Pradesh,Hyderabad,Allopathic,17.4325235,78.4070152
+Mediciti Hospital,"5 - 9 - 22, Secretariat Road","17.406396, 78.471592",Andhra Pradesh,Hyderabad,Allopathic,17.406396,78.471592
+"KIMS Hospital, Secunderabad","Secunderabad, 1 - 8 - 31/1, Minister Road, Secunderabad","17.430016, 78.4897935",Andhra Pradesh,Hyderabad,Allopathic,17.430016,78.4897935
+Kamineni Hospital,L.B Nagar,"17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+Yashoda Hospital,"Somajiguda, Rajbhavan Road","17.4233704, 78.4593342",Andhra Pradesh,Hyderabad,Allopathic,17.4233704,78.4593342
+Fernandez Hospital,"Plot No.769, Road No.44, Jubilee Hills","17.4283705, 78.4065896",Andhra Pradesh,Hyderabad,Allopathic,17.4283705,78.4065896
+Asian Institute of Gastroenterology,"6 - 3 - 661, Somajiguda","17.421204, 78.45829",Andhra Pradesh,Hyderabad,Allopathic,17.421204,78.45829
+Udai Clinic Orthopedic Centre,"5 - 9 - 94, Chapel Road","30.6708576, -90.5784",Andhra Pradesh,Hyderabad,Allopathic,30.6708576,-90.5784
+Homeocare International,"63, S.P.Road, Near Ashoka bhupal chambers, Begumpet
+Sindhi Colony, Begumpet","17.4447068, 78.4663812",Andhra Pradesh,Hyderabad,Ayush/ Homeopathy,17.4447068,78.4663812
+Nizams Institute of Medical Sciences (NIMS),Panjagutta,"17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+Sathya Kidney Centre and Super Speciality Hospital,"3-6-426, Beside Ashish Residency, Tank Bund
+Street Number 4, Devi Laxmi Bagh, Domalguda, Himayath Nagar
+","17.4048879, 78.4819892",Andhra Pradesh,Hyderabad,Allopathic,17.4048879,78.4819892
+Sunshine Hospital,"Penderghast Road, Opposite Parsi Dharamsala, Behind Paradise Hotel
+Sappu Bagh Apaprtment, Jogani, Ramgopalpet","17.4422003, 78.4862051",Andhra Pradesh,Hyderabad,Allopathic,17.4422003,78.4862051
+Basavatarakam Indo American Cancer Institute And Research Centre,"Road No 14, Banjara Hills","17.421868, 78.4325607",Andhra Pradesh,Hyderabad,Allopathic,17.421868,78.4325607
+Citizens Hospital,"Nallagandla, Serilingampally, Near Aparna Sarova","17.472855, 78.3101779",Andhra Pradesh,Hyderabad,Allopathic,17.472855,78.3101779
+"Care Hospital, Nampally","Exhibition Grounds Road, Nampally
+Chandra Vihar, Kattel Mandi, Abids","17.3854426, 78.4741288",Andhra Pradesh,Hyderabad,Allopathic,17.3854426,78.4741288
+Medwin Hospital,"100, Raghava Ratna Towers, Nampally
+Mahesh Nagar Colony","17.393152, 78.4726553",Andhra Pradesh,Hyderabad,Allopathic,17.393152,78.4726553
+"Universal Superspeciality Dental Hospital, Kondapur","1-62/1, Sri Tirumala Subhash Complex, Above Sujana Supermarket, 
+Kothaguda X-Roads, Kondapur","17.4622103, 78.3568492",Andhra Pradesh,Hyderabad,Allopathic,17.4622103,78.3568492
+Sunshine Heart Institute,"Penderghast Road, Opposite Parsi Dharamsala, Behind Paradise Hotel, Secunderabad","17.4399295, 78.4982741",Andhra Pradesh,Hyderabad,Allopathic,17.4399295,78.4982741
+"CGHS Dispensary No.I, Charmina","23-1-693/1/1, Moghulpura","31.5692047, 74.3797556",Andhra Pradesh,Hyderabad,Allopathic,31.5692047,74.3797556
+"CGHS Dispensary No.II, Humayunagar","10-3-273/10, Humayunnagar","17.3991205, 78.4460041",Andhra Pradesh,Hyderabad,Allopathic,17.3991205,78.4460041
+"CGHS Dispensary No.III, 
+Secunderabad","6-1-103/5, Padmaraonagar, 
+Secundarabad","17.4218188, 78.5031792",Andhra Pradesh,Hyderabad,Allopathic,17.4218188,78.5031792
+"CGHS Dispensary No.IV, 
+Begumpet","K.S.Bhawan, Begumpet","17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+"CGHS Dispensary No.VI, 
+Kachiguda","Kendriya Sadan, Sultanbazar","17.3852673, 78.4849747",Andhra Pradesh,Hyderabad,Allopathic,17.3852673,78.4849747
+"CGHS Dispensary No.VII, 
+Malakpet","16-3-994/A/1, Chanchalguda","17.37086, 78.499155",Andhra Pradesh,Hyderabad,Allopathic,17.37086,78.499155
+"CGHS Dispensary No.VII, 
+Kanchanbagh","DRDO Complex, Kanchanbagh","17.3354406, 78.4989506",Andhra Pradesh,Hyderabad,Allopathic,17.3354406,78.4989506
+"CGHS Dispensary No.IX, 
+Alwal, Secunderabad","8-88 and 89, Alwal, Senderabad","17.4980973, 78.5027043",Andhra Pradesh,Hyderabad,Allopathic,17.4980973,78.5027043
+"CGHS Dispensary No.XI, 
+Kakatiyanagar","9-4-84/20, Kakatiyanagar","17.4157401, 78.5410169",Andhra Pradesh,Hyderabad,Allopathic,17.4157401,78.5410169
+"CGHS Dispensary No.XII, 
+Dilsuknagar","7/2A, Balaji Complex, Dilsuknagar","17.3681151, 78.523757",Andhra Pradesh,Hyderabad,Allopathic,17.3681151,78.523757
+"CGHS Dispensary No.XII, 
+Tamaka","St.No.5, Tarnaka","17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+"PC-I, KS Bhawan","KS Bhavan, Begumpet","17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+"PC-II, AGS Office Bldg.",AGS Office Building,"17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+PC Hyderabad,CE Building,"17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+"Rainbow Hospital for Women and Children, Banjara Hills","22, Road Number 4, Old Road Number 10, Karvy Lanes, Banjara Hills","17.4138277, 78.4397584",Andhra Pradesh,Hyderabad,Allopathic,17.4138277,78.4397584
+"Rainbow Hospital for Women and Children, Secunderabad","Plot C 17, Vikrampuri Colony, Secunderabad","17.4551786, 78.4999876",Andhra Pradesh,Hyderabad,Allopathic,17.4551786,78.4999876
+Yashoda Super Speciality Hospital,"Nalgonda X Roads, Malakpet","17.3755207, 78.4980753",Andhra Pradesh,Hyderabad,Allopathic,17.3755207,78.4980753
+Yashoda Super Speciality Hospital,Alexander Road,"17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+Omega Hospital,"MLA Colony Main Raod, Road Number 12, Banjara Hills","17.4101779, 78.4284907",Andhra Pradesh,Hyderabad,Allopathic,17.4101779,78.4284907
+"Prime Hospital, Kukatpally","MIG 113 and 114, Road Number 1, KPHB Colony","17.4830292, 78.39514",Andhra Pradesh,Hyderabad,Allopathic,17.4830292,78.39514
+"Lotus Children's Hospital, Lakdikapul","D.Number 6-2-29
+","17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+"Lotus Children's Hospital, Kukatpally","HIG Number 15, JNTU, Hi tech City Road, KPHB","17.4861948, 78.3892697",Andhra Pradesh,Hyderabad,Allopathic,17.4861948,78.3892697
+Udai Omni Hospital,"5-9-94, Chapel Road","17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+Omni Hospital,"11-9-46, Sri Sai Shivani Complex, Opposite P.V.T Market, Kothapet 'X' Road, New Nagole Main Road, Dilsukhnagar, Laxmi Nagar Colony, Kothapet","17.368162, 78.535811",Andhra Pradesh,Hyderabad,Allopathic,17.368162,78.535811
+Continental Hospital Limited,"Plot Number 3, Road Number 2, I.T and Financial Dist, Nanakramguda, Gachibowli","17.4226283, 78.3364349",Andhra Pradesh,Hyderabad,Allopathic,17.4226283,78.3364349
+"Aditya Hospital, ABIDS","4-1-16, Boggulakunta, Tilak Road, Abids","17.390546, 78.481084",Andhra Pradesh,Hyderabad,Allopathic,17.390546,78.481084
+Sai Vani Super Specialty Hospital,"1-2-365/36/6 and 7, Opposite Indira Park, Ramakrishna Math Road, Domalguda","17.408118, 78.484689",Andhra Pradesh,Hyderabad,Allopathic,17.408118,78.484689
+"Ankura Hospital for Children and Women, Kukatpally","JNTU Hitech City Road, 7th Phase, KPHB Colony, Near Hitech City Railway Station","17.4697664, 78.3853073",Andhra Pradesh,Hyderabad,Allopathic,17.4697664,78.3853073
+"Ankura Hospital for Children and Women, Secunderabad","Near Yatri Nivas, SP Road, Opposite Metro Pillar Number 23, Beside Dominos Pizza, Begumpet","17.4447068, 78.4663812",Andhra Pradesh,Hyderabad,Allopathic,17.4447068,78.4663812
+Anupama Hospitalÿ,"6th Phase, JNTU Road Kukatpally","17.4904322, 78.3926349",Andhra Pradesh,Hyderabad,Allopathic,17.4904322,78.3926349
+Apollo DRDO Hospital,"Santosh Nagar, Kanchanbagh","17.3909698, 78.4379132",Andhra Pradesh,Hyderabad,Allopathic,17.3909698,78.4379132
+Apollo Hospital,"Pollicetty Towers, St.John's Road, Bhagyanagar Colony, Besides Keyes High School, Secunderabad","17.4399295, 78.4982741",Andhra Pradesh,Hyderabad,Allopathic,17.4399295,78.4982741
+Apollo Hospital,Jubilee Hills,"17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+Apollo Emergency Centre,"16-2-705/5/5, Opposite Santhi Fire Works, Malakpet","17.3730927, 78.4900381",Andhra Pradesh,Hyderabad,Allopathic,17.3730927,78.4900381
+Asha Hospital,"Plot Number 298, Road Number 14, Banjara Hills","17.4227225, 78.4283057",Andhra Pradesh,Hyderabad,Allopathic,17.4227225,78.4283057
+Bristlecone Hospital,"Street Number 6, Barkatpura","31.3929171, 73.0853019",Andhra Pradesh,Hyderabad,Allopathic,31.3929171,73.0853019
+Care Hospital,Exhibition Grounds Road,"45.0387777, -63.1587374",Andhra Pradesh,Hyderabad,Allopathic,45.0387777,-63.1587374
+Guru Nanak Care Hospital,"1-4-908/7/1, Musheerabad
+","17.4136932, 78.4979469",Andhra Pradesh,Hyderabad,Allopathic,17.4136932,78.4979469
+Challa Eye Care Centre,"Lane Beside Harley Davidson Showroom, Sagar Soceity Main Road, Road Number 2, Banjara Hills","17.4245471, 78.4310742",Andhra Pradesh,Hyderabad,Allopathic,17.4245471,78.4310742
+Challa Hospital,"7-1-71/A/1, Dharam Karam Road, Ameerpet","17.4396894, 78.4506241",Andhra Pradesh,Hyderabad,Allopathic,17.4396894,78.4506241
+Disha Children's Hospital,"3-11-142/N, DVN Complex, Opposite to Kamineni Hospital, RTC Colony, LB Nagar","17.3499297, 78.5522438",Andhra Pradesh,Hyderabad,Allopathic,17.3499297,78.5522438
+Dr.Agarwal's Eye Hospital,"No 16-2-669/C, Shop No 1-4, Lakshmi Appartments, Malakpet","17.3730927, 78.4900381",Andhra Pradesh,Hyderabad,Allopathic,17.3730927,78.4900381
+Dr.Ramayya's Urology Nephrology Institute and Hospital Private Limited,"5-9-34/2, Basheer Bagh","17.3990949, 78.4773256",Andhra Pradesh,Hyderabad,Allopathic,17.3990949,78.4773256
+Global Eye Hospital,"Plot Number 197, Road Number 1, KPHB Colony, Kukatpally","17.4875018, 78.3997822",Andhra Pradesh,Hyderabad,Allopathic,17.4875018,78.3997822
+Goodwill Kidney and Surgical Centre,"House Number 10-5-13/2/A, Road Number 1, Opposite Khaja Function Hall, Banjara Hills","17.3985691, 78.4444924",Andhra Pradesh,Hyderabad,Allopathic,17.3985691,78.4444924
+Hyderabad Eye Centre,"3-6-217/1, St.Number15, Near Vasavi Public School, Himayathnagar","17.401414, 78.480615",Andhra Pradesh,Hyderabad,Allopathic,17.401414,78.480615
+Icon Hospital,"540/1and 2, JNTU Hitech City Road, VI-Phase, KPHB Colony","17.4853956, 78.3903861",Andhra Pradesh,Hyderabad,Allopathic,17.4853956,78.3903861
+Janapareddy Hospital,"26/A, Sikh Road, Sikh Village, Near Diamond Point, Secunderabad","17.461399, 78.4908723",Andhra Pradesh,Hyderabad,Allopathic,17.461399,78.4908723
+Kamineni Hospital,King Koti,"17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+Kamineni Fertility Centre,King Koti,"17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+Lions Sadhuram Eye Hospital,"1-2-8, Domalguda","17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+Live Life Hospital,"Plot 729, Jubilee Hills, Road 36","17.4380983, 78.3994013",Andhra Pradesh,Hyderabad,Allopathic,17.4380983,78.3994013
+Majestic Hospital,Langar Houz,"17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+Maxivision Eye Hospital,"1-11-252/1A-1D, Alladin Mansion, Street Number 3, Begumpet","17.4481595, 78.4619685",Andhra Pradesh,Hyderabad,Allopathic,17.4481595,78.4619685
+Medwin Hospital,"Raghava Ratna Towers, Nampally","17.393152, 78.4726553",Andhra Pradesh,Hyderabad,Allopathic,17.393152,78.4726553
+Motherhood Hospital,"Road Number 12, Banjara Hills","17.4104308, 78.4374452",Andhra Pradesh,Hyderabad,Allopathic,17.4104308,78.4374452
+Motherhood Hospital,"3rd Floor, Millennium Square, Near Commissionerate of Police, Gachibowli","17.4400802, 78.3489168",Andhra Pradesh,Hyderabad,Allopathic,17.4400802,78.3489168
+Neelima,"7-2-1735, CZech Colony, Sanath Nagar","17.456708, 78.4390542",Andhra Pradesh,Hyderabad,Allopathic,17.456708,78.4390542
+NeoRetina,"Chapel Road, Abids","17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+Pace Hospital,"SP Road, Near Begumpet Old Airport, Begumpet","17.4447068, 78.4663812",Andhra Pradesh,Hyderabad,Allopathic,17.4447068,78.4663812
+Pragna Hospital,"6-3-347/22B/1, Dwarakapuri Colony, Near Saibaba Temple","17.424611, 78.450531",Andhra Pradesh,Hyderabad,Allopathic,17.424611,78.450531
+Prasad Hospital,"MIG 303, KPHB, Road Number 4, Remedy Hospital Lane, Kukatpally","17.4947934, 78.3996441",Andhra Pradesh,Hyderabad,Allopathic,17.4947934,78.3996441
+Sridevi Nursing Home,"12-11-253, Prasad Hospitals, Warasiguda, Secunderabad","17.4164876, 78.5135489",Andhra Pradesh,Hyderabad,Allopathic,17.4164876,78.5135489
+Preeti Urology and Kidney Hospital,KPHB,"17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+Raghava Multi Speciality Hospitalÿ,"D.Number 8-3-214/18, Srinivasa Colony West","17.4119955, 78.571417",Andhra Pradesh,Hyderabad,Allopathic,17.4119955,78.571417
+Ram Hospital,"57/A, Shapur Nagar, I.D.A., Jeedimetla","17.5144468, 78.4453532",Andhra Pradesh,Hyderabad,Allopathic,17.5144468,78.4453532
+Remedy Hosptials,"Road Number 4, K P H B Colony, Kukatpally","17.4914639, 78.4159255",Andhra Pradesh,Hyderabad,Allopathic,17.4914639,78.4159255
+Sagar Lal Memorial Hospital and Matadin Goel Research Center,"H.No 1-5-551, Musheerabad","17.4196548, 78.4990004",Andhra Pradesh,Hyderabad,Allopathic,17.4196548,78.4990004
+Sankhya Hospital,"C -15 1st Road, KPHB Colony, Opposite SBT Bank, Kukatpally","17.4947934, 78.3996441",Andhra Pradesh,Hyderabad,Allopathic,17.4947934,78.3996441
+Sri Srinivasa Hospital,"C.E Colony, Santosh Nagar","18.4451474, 73.855663",Andhra Pradesh,Hyderabad,Allopathic,18.4451474,73.855663
+Supraja Hospital,Nagole X Road,"17.385044, 78.486671",Andhra Pradesh,Hyderabad,Allopathic,17.385044,78.486671
+Suraksha Childrens Hospital,"12-13-43, Beside Tarnaka Flyover, Tarnaka","17.426249, 78.5316232",Andhra Pradesh,Hyderabad,Allopathic,17.426249,78.5316232
+Surakshaka Multi Speciality Hospital,"MIG 218, KPHB Main Road, Kukatpally","17.4916972, 78.4018218",Andhra Pradesh,Hyderabad,Allopathic,17.4916972,78.4018218
+"Swarup Eye Centre, Punjagutta","145, Dwarakapuri Colony","17.4251835, 78.4503274",Andhra Pradesh,Hyderabad,Allopathic,17.4251835,78.4503274
+"Swarup Eye Centre, Chapel Road","5-9-163, Chapel Road, Near Staneley College, Abids","17.393, 78.473",Andhra Pradesh,Hyderabad,Allopathic,17.393,78.473
+The Deccan Hospitalÿ,"06-6-903/A and B, Somajiguda","17.4237016, 78.4583888",Andhra Pradesh,Hyderabad,Allopathic,17.4237016,78.4583888
+Udbhava Children's Hospital,"MIG-196, Road Number1, K.P.H.B.","19.0591772, 72.8468228",Andhra Pradesh,Hyderabad,Allopathic,19.0591772,72.8468228
+"Vasan Healthcare Private Limited, Ameerpet","Number 8-3-903/A, Nagaarjuna Nagar Colony, Yellareddyguda, Ameerpet","17.431748, 78.44654",Andhra Pradesh,Hyderabad,Allopathic,17.431748,78.44654
+"Vasan Healthcare Private Limited, Begumpet","1-10-44/1, Begumpet Main Road","17.411757, 78.4546822",Andhra Pradesh,Hyderabad,Allopathic,17.411757,78.4546822
+"Vasan Healthcare Private Limited, Chandanagar","86, Chandanagar, Serilingampally, Rangareddy District","17.4836979, 78.3158338",Andhra Pradesh,Hyderabad,Allopathic,17.4836979,78.3158338
+"Vasan Healthcare Private Limited, Himayath Nagar","3-6-611, Street Number 8, Himayath Nagar","17.4020703, 78.4870568",Andhra Pradesh,Hyderabad,Allopathic,17.4020703,78.4870568
+"Vasan Healthcare Private Limited, Jubilee Hills","1132/A, Road Number 36, Jubilee Hills","17.4275372, 78.4142451",Andhra Pradesh,Hyderabad,Allopathic,17.4275372,78.4142451
+"Vasan Healthcare Private Limited, Mehidipatnam","No.10-3-13, Famous Plaza, Mehidipatnam","17.3945149, 78.4425619",Andhra Pradesh,Hyderabad,Allopathic,17.3945149,78.4425619
+"Vasan Healthcare Private Limited, Santosh Nagar","Plot Number 15, 17-1-382/R/15, A.P.S.R.T.C.Officers Colony, Santosh Nagar, Saidabad","17.3695953, 78.495794",Andhra Pradesh,Hyderabad,Allopathic,17.3695953,78.495794
+Vijay Marie Hospital,"H.Number 10-673/1, Veernagar, Saifabad","17.4036772, 78.4560922",Andhra Pradesh,Hyderabad,Allopathic,17.4036772,78.4560922
+Vijaya Health Care,"8-2-186, Near Passport Office, Secunderabad","17.4399295, 78.4982741",Andhra Pradesh,Hyderabad,Allopathic,17.4399295,78.4982741
+Gandhi Medical College and Hospital,"Musheerabad, Secunderabad","17.4196548, 78.4990004",Andhra Pradesh,Hyderabad,Allopathic,17.4196548,78.4990004
+"Centre For Sight, Rajahmundry","D.No.17-1-43, A.P.Paper Mills Road
+Seethampeta, East Godavari District
+Rajahmundry
+","17.0209155, 81.7711827",Andhra Pradesh,East Godavari,Allopathic,17.0209155,81.7711827
+"Centre For Sight, Banjara Hills","Ashoka Capitol Building
+Road No 2, Banjara Hills","17.4249353, 78.4226378",Andhra Pradesh,Hyderabad,Allopathic,17.4249353,78.4226378
+"Centre For Sight, Kurnool","H.No.46/87-56, Woodland compound, Adjacent to Gowri Gopal Hospital, Budhawarpet, Kurnool","15.8281257, 78.0372792",Andhra Pradesh,Hyderabad,Allopathic,15.8281257,78.0372792
+Manipal Super Specialty Hospital,"Soumya Nagar, Tadepalli, Vijayawada, Guntur Dist, Vijayawada","16.5061743, 80.6480153",Andhra Pradesh,Krishna,Allopathic,16.5061743,80.6480153
+VIMHANS Hospital,"V.V.Rao Street, Suryaraopet, 
+Vijayawada","16.5061743, 80.6480153",Andhra Pradesh,Krishna,Allopathic,16.5061743,80.6480153
+Ramakrishna Mission Hospital,"P.O.- R.K.Mission, Itanagar","27.0702523, 93.5944001",Arunachal Pradesh,Lower Subansiri,Allopathic,27.0702523,93.5944001
+District Hospital,"District Hospital, Daporijo, Upper Subansiri","27.786802, 94.3359635",Arunachal Pradesh,Upper Subansiri,Allopathic,27.786802,94.3359635
+Silchar Medical College and Hospital (SMCH),"Silchar Medical College, 
+Ghungoor, Silchar","24.7630479, 92.7968419",Assam,Cachar,Allopathic,24.7630479,92.7968419
+Assam Medical College and Hospital (AMCH),"Assam Medical College, 
+Barbari, Dibrugarh","27.4720664, 94.9519733",Assam,Dibrugarh,Allopathic,27.4720664,94.9519733
+Jorhat Medical College And Hospital,"Jorhat Medical College and Hospital, Konwar Path, Barbheta
+P.O.Jorhat","26.7465203, 94.2025859",Assam,Jorhat,Allopathic,26.7465203,94.2025859
+Gauhati Medical College and Hospital (GMCH),"Gauhati Medical College, 
+GMCH Complex
+GMCH Rd, Bhangagarh
+Guwahat","26.1445169, 91.7362365",Assam,Kamrup,Allopathic,26.1445169,91.7362365
+Tezpur Medical College and Hospital,"NH-37A, Tezpur","26.6528495, 92.7925592",Assam,Sonitpur,Allopathic,26.6528495,92.7925592
+Darbhanga Medical College and Hospital,"Laheriasaria, Darbhanga","26.1193569, 85.9048962",Bihar,Darbhanga,Allopathic,26.1193569,85.9048962
+Sri Krishna Memorial College and Hospital,P.O.Umanagar,"26.1208876, 85.3647201",Bihar,Muzaffarpur,Allopathic,26.1208876,85.3647201
+Patna Medical College and Hospital,Patna Medical College,"21.2441227, 81.620034",Bihar,Patna,Allopathic,21.2441227,81.620034
+Nalanda Medical College and Hospital,Kankarbagh Main Road,"25.5956821, 85.1405668",Bihar,Patna,Allopathic,25.5956821,85.1405668
+Indira Gandhi Institute of Medical Sciences,"Bailey Road, Shiekhpura","25.6043971, 85.093884",Bihar,Patna,Allopathic,25.6043971,85.093884
+Paras HMRI Hospital,"Raza Bazar, Baily Road","23.7408738, 90.4024452",Bihar,Patna,Allopathic,23.7408738,90.4024452
+Kurji Holy Family Hospital,Sadaquat Ashram,"25.5940947, 85.1375645",Bihar,Patna,Allopathic,25.5940947,85.1375645
+Sahyog Hospital,"40, Patliputra colony","25.627595, 85.1080322",Bihar,Patna,Allopathic,25.627595,85.1080322
+Dr. Bimal Hospital and Research Center,"Sheikhpura, Raza Bazar, Baily Road","25.6046194, 85.0884757",Bihar,Patna,Allopathic,25.6046194,85.0884757
+Magadh Hospital,"2B, Rajendra Nagar","25.6062727, 85.1650548",Bihar,Patna,Allopathic,25.6062727,85.1650548
+Arvind Hospital,"Near KhudaBaqsh Library, Ashok Rajpath, Makhania Kuan, Lalbagh","25.612207, 85.1980334",Bihar,Patna,Allopathic,25.612207,85.1980334
+Government Medical College and Hospital,Sector-32 Chandigarh,"30.6892033, 76.7538467",Chandigarh,Chandigarh,Allopathic,30.6892033,76.7538467
+Centre For Sight,"S.C.O - 809- 810, 
+17G, Sector 22A","-12.0238112, -76.9132212",Chandigarh,Chandigarh,Allopathic,-12.0238112,-76.9132212
+Chaitanya Hospital,"Site No.1 and 2, Sector 44-C, Chandigarh
+ 
+","30.7433088, 76.7971802",Chandigarh,Chandigarh,Allopathic,30.7433088,76.7971802
+Silver Oaks Hospitals,"Phase IX, Sector - 63, SAS Nagar, Mohali","30.6915027, 76.7314877",Chandigarh,Chandigarh,Allopathic,30.6915027,76.7314877
+Government Medical College,"Government Medical College, NMDC, Jagdalpur","19.0740973, 82.008014",Chhattisgarh,Bastar,Allopathic,19.0740973,82.008014
+Chhattisgarh Institute of Medical Sciences,"Sadar Vallabh Bhai Patel hospital, Bilaspur","22.0796251, 82.1391412",Chhattisgarh,Bilaspur,Allopathic,22.0796251,82.1391412
+Bhilai Nursing Home,"Opp Maurya Talkies, Sirsa Road, Bhilai","21.1938475, 81.3509416",Chhattisgarh,Durg,Allopathic,21.1938475,81.3509416
+Revival Medical Centre,"C-4, Shivnath Complex Extension, Near Mourya G.E.Road, Bhilai","21.1938475, 81.3509416",Chhattisgarh,Durg,Allopathic,21.1938475,81.3509416
+Chandulal Chandrakar Hospital,"Nehru Nagar, G E Road, Bhilai","21.20414, 81.3232779",Chhattisgarh,Durg,Allopathic,21.20414,81.3232779
+"AIIMS, Raipur","All India Institute of Medical Sciences, 
+Raipur Tatibandh, G E Road, 
+Raipur","21.2513844, 81.6296413",Chhattisgarh,Raipur,Allopathic,21.2513844,81.6296413
+Pt.J N M Medical College,"Pt.Jawaharlal Nehru Memorial Medical College, Jail Road, Raipur
+","21.2517979, 81.6407956",Chhattisgarh,Raipur,Allopathic,21.2517979,81.6407956
+Shri Vinoba Bhave Civil Hospital,"U.T.of Dadra and Nagar Haveli, Silvassa, Shri Vinoba Bhave Civil Hospital","39.3209801, -111.0937311",Dadra and Nagar Haveli,Dadra and Nagar Haveli,Allopathic,39.3209801,-111.0937311
+"Government Hospital, Daman","Fort Area, Community Health 
+Center, Moti Daman, Daman and Diu","20.4080193, 72.8343123",Daman and Diu,Daman,Allopathic,20.4080193,72.8343123
+Hansa clinic and hospital,"Main road, Dabhel, Nani damandaman, Daman and Diu","20.4110465, 72.8917256",Daman and Diu,Daman,Allopathic,20.4110465,72.8917256
+Smt. Ramaben Maternity and General Hospital,"1st floor, bhumica city centrem.g.Road, silvassa
+","20.2762659, 73.0083061",Goa,North Goa,Allopathic,20.2762659,73.0083061
+Goa Medical College,"Goa Medical College and Hospital Bambolim, Tiswadi","15.4647522, 73.8624893",Goa,South Goa,Allopathic,15.4647522,73.8624893
+"Eye-Q Super Speciality Eye Hospitals, Bharuch","1st floor, Modi Compund, Paanch batti, Bharuch","21.7051358, 72.9958748",Gujarat,Bharuch,Allopathic,21.7051358,72.9958748
+"Centre For Sight, Bharuch","GS-18, Brund Complex, Residence Plaza, OppositeGEB Office, Maktampur Road.Bharuch
+","21.7092223, 73.0156094",Gujarat,Bharuch,Allopathic,21.7092223,73.0156094
+Pandit Deendayal Upadhyay Medical College (P.D.U Medical College),"Civil Hospital Campus, Jamnagar Road, Rajkot 
+","22.3144697, 70.7905408",Gujarat,Rajkot,Allopathic,22.3144697,70.7905408
+"Centre For Sight, Rajkot","203, Embassy Building, OppositeJubilee Baug, Rajkot","22.3038945, 70.8021599",Gujarat,Rajkot,Allopathic,22.3038945,70.8021599
+"Centre For Sight, Surat","3rd Floor, Samir Appts, Muktanand Nagar Complex., Surat","21.1702401, 72.8310607",Gujarat,Surat,Allopathic,21.1702401,72.8310607
+Kesarl Sal Medical College and Research Institute,"OppositeScience City, Daskroi Taluka, Bhadaj, Ahmedabad","23.0867539, 72.4838768",Gujarat,Ahmedabad,Allopathic,23.0867539,72.4838768
+B.J. Medical College,"B.J.Medical College, New Civil Hospital, Asarwa, Ahmedabad","23.0451653, 72.6073159",Gujarat,Ahmedabad,Allopathic,23.0451653,72.6073159
+Smt.NHL Municipal Medical College,"Ellis Bridge, Ahmedabad","23.0262331, 72.5623124",Gujarat,Ahmedabad,Allopathic,23.0262331,72.5623124
+Ahmedabad Homeopathy Medical College,"Bopal-Ghuma Road, Ghuma, Daskroi, Ahmedabad","23.0082573, 72.4421658",Gujarat,Ahmedabad,Ayush/ Homeopathy,23.0082573,72.4421658
+GMERS Medical College,"GMERS Medical Collage, 
+Sola, SG Highway, Ahmedabad 
+","23.022505, 72.5713621",Gujarat,Ahmedabad,Allopathic,23.022505,72.5713621
+Pulse Women's Hospital,"108, Swastik Society, B/H St Xavier's Ladies Hostel, Navrangpura, Ahmedabad","23.0365437, 72.5611395",Gujarat,Ahmedabad,Allopathic,23.0365437,72.5611395
+"Centre For Sight, Ahmedabad","101, White Cross, 15, Patel Society, Gulbai Tekra, Ahmedabad","23.0271349, 72.5515384",Gujarat,Ahmedabad,Allopathic,23.0271349,72.5515384
+Hemato Oncology Clinic Pvt.Ltd.,"Vedanta Institute of Medical Sciences 1st Floor, Stadium Commerce Collage Road, Navrangpura","23.0365437, 72.5611395",Gujarat,Ahmedabad,Allopathic,23.0365437,72.5611395
+"Dhwani General Hospital, Nursing Home and Materity Home","28, New Kamlesh Society, Arbudanagar Road, Odhav","23.0100698, 72.6450387",Gujarat,Ahmedabad,Allopathic,23.0100698,72.6450387
+Life Care Emergency Centre,"Near.Jain Derasar, Borsalli Appartment Road, Nr.Cama Hotel, Khanpur","28.6491211, 70.6514213",Gujarat,Ahmedabad,Allopathic,28.6491211,70.6514213
+Parekhs Hospital Pvt.Ltd,"132, Feet Ring Road, Shyamal Cross Road, Satellite","23.0141755, 72.5316915",Gujarat,Ahmedabad,Allopathic,23.0141755,72.5316915
+Aims Hospital,"Nr Jethabhai Park, Shantivan, Narayan Nagar Road, Paldi","22.9995425, 72.5566256",Gujarat,Ahmedabad,Allopathic,22.9995425,72.5566256
+CGHS Dispensary No.3,"CGHS Dispensary No.3, 1, Jeevan Prakash
+Society, Darpan Six Roads, Nr.St.Xaviers School Road, Navrangpura","23.0365437, 72.5611395",Gujarat,Ahmedabad,Allopathic,23.0365437,72.5611395
+CGHS Dispensary No.4,"CGHS Dispensary No.4, Qtr.No.M/49/289, 290, Pragatinagar, Naranpura","23.0673142, 72.5567139",Gujarat,Ahmedabad,Allopathic,23.0673142,72.5567139
+Aashirwad Surgical Hospital and Nursing Home,"2nd Floor, Neelkamal Complex, Ramnagar","29.3947643, 79.1264997",Gujarat,Ahmedabad,Allopathic,29.3947643,79.1264997
+Ansuya General Hospital,"4, Ratna Bhuvan, Daxini Society, Maninagar Railway Crossing","22.9940097, 72.6075777",Gujarat,Ahmedabad,Allopathic,22.9940097,72.6075777
+C.H.Nagri Eye Hospital,"Ellisbridge, Ahmedabad","23.0262331, 72.5623124",Gujarat,Ahmedabad,Allopathic,23.0262331,72.5623124
+Clear Vision Eye Hospital (Unit 3),"Above Tapan Medical Store, Opp L G Hospital, Maninagar","22.9961698, 72.5995843",Gujarat,Ahmedabad,Allopathic,22.9961698,72.5995843
+Dev Hospital,"Kesariyaji Bus Stop, Jivraj Mehta Road, Vasna","23.0056634, 72.5452848",Gujarat,Ahmedabad,Allopathic,23.0056634,72.5452848
+Devasya Kidney and Multi speciality Hospital,"Nr.Bhimajipura Cross Roads, 
+Nava Vadaj Road","23.0614938, 72.5696557",Gujarat,Ahmedabad,Allopathic,23.0614938,72.5696557
+Dharmanandan Surgical Hospital,"2nd floor, Avani Avenue, Manohar villa cross roads, Nikol-Naroda road, Nava Naroda","23.0638657, 72.6636635",Gujarat,Ahmedabad,Allopathic,23.0638657,72.6636635
+Divyajyot Eye Hospital,"316 Orange Mall, 
+3rd Floor, Nr.Sharda Petrol Pump, 
+Nr Amts Bus Stop, 
+Chandkheda","23.1115671, 72.5727621",Gujarat,Ahmedabad,Allopathic,23.1115671,72.5727621
+Doctor House,"Station road, Dhandhuka","22.2402163, 71.9188428",Gujarat,Ahmedabad,Allopathic,22.2402163,71.9188428
+Dr.Atul Shah Eye Hospital,"3rd Floor, Narottam Complex, 
+Sola Rd, Visharam Nagar, Memnagar","23.0615268, 72.5344732",Gujarat,Ahmedabad,Allopathic,23.0615268,72.5344732
+Dr.Saurabh Shah Orthopaedic Hospital,"3/B, Hasmukh Colony, Vijaynagar Road","23.0568889, 72.5607879",Gujarat,Ahmedabad,Allopathic,23.0568889,72.5607879
+Grace Endoscopy (Division of WINGS Hospital),"2, Sumanglam Society","23.022505, 72.5713621",Gujarat,Ahmedabad,Allopathic,23.022505,72.5713621
+Pallav J M Desai Memorial Hospital (Better Health Pvt.Ltd.),"Alankar Complex, Nr.Old Railway Crossing Maninagar (East)","22.994729, 72.613694",Gujarat,Ahmedabad,Allopathic,22.994729,72.613694
+Janam Maternity General Hospital,"Madhav Complex, Near Police Station Road, Sanand","22.9912897, 72.3755085",Gujarat,Ahmedabad,Allopathic,22.9912897,72.3755085
+Jivandeep Hospital,"Opposite Shree Ram market, Lokdiya Sheri, Dholka","22.7428431, 72.4435674",Gujarat,Ahmedabad,Allopathic,22.7428431,72.4435674
+Joitiba General Hospital,"Akshar Avenue, Cadilla Bridge Corner, Ghodasar","22.9839274, 72.6102337",Gujarat,Ahmedabad,Allopathic,22.9839274,72.6102337
+Kiran Surgical Hospital,"301, Pratham Mangal Complex","23.0011871, 72.5467567",Gujarat,Ahmedabad,Allopathic,23.0011871,72.5467567
+Krishna Shalby Hospital,"319, Green City, Ghuma, Village Bopal","23.2599333, 77.412615",Gujarat,Ahmedabad,Allopathic,23.2599333,77.412615
+Kunal Medical Hospital,"C/101, Shreepal Complex, Hatkeshwar, Ahmedabad","22.9897281, 72.628422",Gujarat,Ahmedabad,Allopathic,22.9897281,72.628422
+Lady Care Womens Hospital Child Care,"2nd Floor B-Block, Swaminarayan Avenue AEC Cross Road Naranpura","23.0551934, 72.5585003",Gujarat,Ahmedabad,Allopathic,23.0551934,72.5585003
+Life Care Institute Of Medical Sciences Research Pvt Ltd,"Sardar Patel Statue, Stadium Road, Ahmedabad","23.0448507, 72.5620668",Gujarat,Ahmedabad,Allopathic,23.0448507,72.5620668
+Mahin Lifecare Services Pvt.Ltd,"1st Floor, Royal Nawab Avenue, Sarkhej Road, Juhanpura","22.9931222, 72.5256718",Gujarat,Ahmedabad,Allopathic,22.9931222,72.5256718
+Matulya ENT Clinic,"301, B, Himalaya Emerald, besides IOC petrol pump, 132 Feet Ring Rd, Jodhpur, Satellite","23.0273062, 72.5217587",Gujarat,Ahmedabad,Allopathic,23.0273062,72.5217587
+Navjeevan Care Home Guj Pvt.Ltd.,"Above Balubhai Motors, Nr.Sapna Theatre, Ghodka Roads, Sarkhej","22.9797708, 72.4927108",Gujarat,Ahmedabad,Allopathic,22.9797708,72.4927108
+Navjeevan Doctor House,"Near Gadhiya Cross Road, Sanand Bavla Road, Sanand","22.9912897, 72.3755085",Gujarat,Ahmedabad,Allopathic,22.9912897,72.3755085
+Navkar Hospital,"Navkar Complex, Near Shreyas Railway Crossing Ambawadi","23.0128032, 72.5457093",Gujarat,Ahmedabad,Allopathic,23.0128032,72.5457093
+Netra Raksha Hospital,"Trimurti Complex, Thakkarbapa Nagar Road, Approach India Colony","23.0391535, 72.6383416",Gujarat,Ahmedabad,Allopathic,23.0391535,72.6383416
+Nova Pulse Ivf Clinic Ahmedabad Pvt.Ltd.,"108, Swastik Society","23.0390208, 72.5611501",Gujarat,Ahmedabad,Allopathic,23.0390208,72.5611501
+P.H.C.KOTH,"Koth, Dholka","22.7428431, 72.4435674",Gujarat,Ahmedabad,Allopathic,22.7428431,72.4435674
+Parth Maternity and Medical Nursing Home,"Shri Krishna Tower, Near Cine Pride Talkies, National Highway - 8 Narol-Naroda Road, Krishna Nagar","23.0498389, 72.6242648",Gujarat,Ahmedabad,Allopathic,23.0498389,72.6242648
+PHC Kuha,"Kuha, ta.Dakroi","23.022505, 72.5713621",Gujarat,Ahmedabad,Allopathic,23.022505,72.5713621
+PHC Vataman,"Vataman, Dhokla","23.022505, 72.5713621",Gujarat,Ahmedabad,Allopathic,23.022505,72.5713621
+Pooja Hospital,"33, Parnkunj Society","23.022505, 72.5713621",Gujarat,Ahmedabad,Allopathic,23.022505,72.5713621
+Poojan Children Hospital and Neonetal Centre,"1st Floor, Vaibhav Complex","18.5013128, 73.9301982",Gujarat,Ahmedabad,Allopathic,18.5013128,73.9301982
+Pruthvi Medical Nursing Home and Heart Centre,"1st Floor, Saptarshi Complex, Near Sardar Patel Bavla, Naranpura","23.0551934, 72.5585003",Gujarat,Ahmedabad,Allopathic,23.0551934,72.5585003
+Pushpa Children Hospital and Critical Care Centre,"302 Vitthal Mall, Nr Chandkheda Eng.College, Chandkheda","23.1115671, 72.5727621",Gujarat,Ahmedabad,Allopathic,23.1115671,72.5727621
+Raj Ent Hospital,"Dhananjibhai Complex, B Block, Near Naranpura Railway Crossing","22.9943678, 72.6131219",Gujarat,Ahmedabad,Allopathic,22.9943678,72.6131219
+Rhythm Cardio Pulmonory Care Centre and Medical Hospital,"F.F and 2nd Floor, Shashwat Complex, Naranpura Croos Road","23.0381279, 72.5591927",Gujarat,Ahmedabad,Allopathic,23.0381279,72.5591927
+Rudraksh Hospital,"Near S.T.Workshop Naroda Road, Patiya, Naroda","23.065368, 72.643426",Gujarat,Ahmedabad,Allopathic,23.065368,72.643426
+Sagar Orthopaedic Hospital,"Vallabhnagar Flats, 3/25, Bapunagar, Char Rasta, Bapunagar","23.0348745, 72.6294565",Gujarat,Ahmedabad,Allopathic,23.0348745,72.6294565
+Sahajanand Eye Care Hospital,"4th Floor, Dolly Complex, Stadium Cross-roads, Navrangpura","23.0365437, 72.5611395",Gujarat,Ahmedabad,Allopathic,23.0365437,72.5611395
+Sahyog General Hospital,"Nr.Shantipura Ring Road Circle, Sarkhej-Sanand Highway, Sarkhej","22.9852441, 72.4942028",Gujarat,Ahmedabad,Allopathic,22.9852441,72.4942028
+Sal Hospital and Medical Institute,Opposite Doordarshan Tower Drive In Road,"23.0485481, 72.5238414",Gujarat,Ahmedabad,Allopathic,23.0485481,72.5238414
+Samata Hospital Pvt.Ltd,"2nd Floor, Silver Star Complex, Chandlodia-Gota Road","23.1059134, 72.5252884",Gujarat,Ahmedabad,Allopathic,23.1059134,72.5252884
+Sanjivani Eye Hospital and Phaco Centre,"3rd Floor, Soham Complex, Near Navrang, Six Road, Navrangpura","23.0348708, 72.5663963",Gujarat,Ahmedabad,Allopathic,23.0348708,72.5663963
+Sanjivani Hospital,"Viramgam Bazar, Viramgam","23.1236377, 72.0527421",Gujarat,Ahmedabad,Allopathic,23.1236377,72.0527421
+Jaydeep Hospital,"403-404, B-Block Rudra Arcade, Besides May Flower Hospital, Helmet Char Rasta, Memnagar","23.0456055, 72.5424529",Gujarat,Ahmedabad,Allopathic,23.0456055,72.5424529
+Bopal Multispeciality Hospital,"17-18, Abhinandan Complex, Opposite Inductotherm Factory, Bopal","23.2599333, 77.412615",Gujarat,Ahmedabad,Allopathic,23.2599333,77.412615
+CHC Chandkheda,"Nr.Manikrupa School, I.O.C.Road, Chadkheda","23.1126977, 72.5759444",Gujarat,Ahmedabad,Allopathic,23.1126977,72.5759444
+CHC Detroj,At Po.Detroj,"23.3333915, 72.1875193",Gujarat,Ahmedabad,Allopathic,23.3333915,72.1875193
+CHC Dholka,"Opposite Minaben Tower, Dholka, Ahmedabad","22.7428431, 72.4435674",Gujarat,Ahmedabad,Allopathic,22.7428431,72.4435674
+CHC Sanand,"Referral Hospital/Samuhik Aarogya Kendra, Singarva, Ahmedabad","23.0247726, 72.6970077",Gujarat,Ahmedabad,Allopathic,23.0247726,72.6970077
+CHC Sarkhej,"Opp ITI, Sarkhej Gam, Sarkhej","22.9761405, 72.5022216",Gujarat,Ahmedabad,Allopathic,22.9761405,72.5022216
+CHC Singarva,"Referral Hospital/Samuhik Aarogya Kendra, Singarva","23.0247726, 72.6970077",Gujarat,Ahmedabad,Allopathic,23.0247726,72.6970077
+CHC Viramgam,"Referral Hospital/Samuhik Aarogya Kendra, Viramgam","23.1236377, 72.0527421",Gujarat,Ahmedabad,Allopathic,23.1236377,72.0527421
+Pramukhswami Medical College,"Charutar Arogya Mandal, Gokalnagar, P.O.Karmsad Karamsad","22.5429215, 72.9017603",Gujarat,Anand,Allopathic,22.5429215,72.9017603
+Eye-Q Super Speciality Eye Hospitals,"1st Floor, Modi Compound, Panch batti, Bharuch","21.7051358, 72.9958748",Gujarat,Bharuch,Allopathic,21.7051358,72.9958748
+"Centre For Sight, Bhavnagar","E/11-12, Center Point, Near V Mart Circle, Gogh Circle, Bhavnagar
+
+","21.7644725, 72.1519304",Gujarat,Bhavnagar,Allopathic,21.7644725,72.1519304
+"Government Medical College, Bhavnagar","Sir T.Hospital Campus, 
+Dr H Vaidya Road, Jail Road, Kalanala, Bhavnagar","21.763636, 72.1370682",Gujarat,Bhavnagar,Allopathic,21.763636,72.1370682
+Lara Hospital,"Nawa Bazaar Road, Godhra-GPO, Godhra","22.7788044, 73.6142795",Gujarat,Panchmahal,Allopathic,22.7788044,73.6142795
+M.P. Shah Medical College,"Pt.Nehru Road, Jamnagar","22.4826725, 70.0585581",Gujarat,Jamnagar,Allopathic,22.4826725,70.0585581
+"Centre For Sight, Jamnagar","Adarsh Hospital, Wakeshainhggari, Jamnagar","22.4707019, 70.05773",Gujarat,Jamnagar,Allopathic,22.4707019,70.05773
+Sanand Hospital and Trauma Centre,"Navdurga Complex, Bavla Road, Nr.Gadhiya Cross Roads, Sanand","22.9912897, 72.3755085",Gujarat,Ahmedabad,Allopathic,22.9912897,72.3755085
+Sanand Janta Multispeciality Hospital,"Sanand Bavla Road, Sanand","22.9912897, 72.3755085",Gujarat,Ahmedabad,Allopathic,22.9912897,72.3755085
+"Government Medical College, Surat","Majura Gate, Surat","21.2228964, 72.8869246",Gujarat,Surat,Allopathic,21.2228964,72.8869246
+Care Hospitals,"OppositeDhiraj Sons, Athwa Gate Circle, Gajrawadi, Surat","21.1702401, 72.8310607",Gujarat,Surat,Allopathic,21.1702401,72.8310607
+"Eye-Q Super Speciality Eye Hospitals, Rander Road","2nd-3rd Floor, Raina Arcade, 
+Near Navyug College, 
+Rander, Surat, Gujarat","21.2158948, 72.7958477",Gujarat,Surat,Allopathic,21.2158948,72.7958477
+"Eye-Q Super Speciality Eye Hospitals, Udhana","2nd Floor, SNS House, 
+Udhana Teen Rasta, Opposite Silicon Shoppers, Udhana Main Road, 
+Udhana, Surat","21.1431152, 72.8431097",Gujarat,Surat,Allopathic,21.1431152,72.8431097
+"Centre For Sight, Surendranagar","Ground Floor, Suchi Complex, 
+Near Dudhrej Crossing.
+Surendranagar","22.7325105, 71.6277061",Gujarat,Surendranagar,Allopathic,22.7325105,71.6277061
+"Smt. B.K. Shah Medical Institute and Research Centre, Piparia, Wabghodia","PipariaTal, Wabghodia, Vadodara","22.3071588, 73.1812187",Gujarat,Vadodara,Allopathic,22.3071588,73.1812187
+"Eye-Q Super Speciality Eye Hospitals, BPC Road","2nd-3rd Floor, Jaylaxmi Complex, 
+4-Anand Nagar society, Jetalpur, BPC Road, Vadodara
+","22.3088457, 73.173969",Gujarat,Vadodara,Allopathic,22.3088457,73.173969
+"Eye-Q Super Speciality Eye Hospitals, Fatehgunj","Silver Bell Complex, Fatehgunj, 
+Vadodara","22.3236543, 73.1897571",Gujarat,Vadodara,Allopathic,22.3236543,73.1897571
+"Centre For Sight, Manjalpur","GF-1/2, Shalin Complex, Near Ramesh party plot, Darbar Chokdi Road, Manjalpur, Vadodara
+","22.2742572, 73.1884402",Gujarat,Vadodara,Allopathic,22.2742572,73.1884402
+"Centre For Sight, Allkapuri","229, Siddhartha Complex, R.C.Dutt Road, Alkapuri, Vadodara Branch 1","22.2942783, 73.1363417",Gujarat,Vadodara,Allopathic,22.2942783,73.1363417
+"GMERS Medical College and Hospital, Gotri","Gotri Main Road, (Old TB Hospital Campus), Vadodara","22.3071588, 73.1812187",Gujarat,Vadodara,Allopathic,22.3071588,73.1812187
+"Centre For Sight, Allkapuri 2","303, Siddhartha Complex, R.C.Dutt Road, Alkapuri, Vadodara Branch 2","22.2956941, 73.1345904",Gujarat,Vadodara,Allopathic,22.2956941,73.1345904
+"CGHS Dispensary, Gurgaon","482/16, Civil Lines","28.4576161, 77.0287188",Haryana,Gurgaon,Allopathic,28.4576161,77.0287188
+Dr. Nagi Clinic,"Gali Darzian Wali, Ambala","30.3781788, 76.7766974",Haryana,Ambala,Allopathic,30.3781788,76.7766974
+Leelawati Hospital,"9, Inder Nagar, Near Arya Chowk, Police Lines Road, Ambala City
+","30.3781788, 76.7766974",Haryana,Ambala,Allopathic,30.3781788,76.7766974
+Narain Hospital,"42, Manauli House, Jail Road, Ambala City","30.3717157, 76.7876854",Haryana,Ambala,Allopathic,30.3717157,76.7876854
+P.C.Sharma Advance Eye Care Centre,"Arya Chowk, Near Telephone Exchange, 
+Ambala City","30.3781788, 76.7766974",Haryana,Ambala,Allopathic,30.3781788,76.7766974
+Bansal Eye Hospital,"889, Urban Estate Sector 7 Ambala City","30.3734372, 76.7783748",Haryana,Ambala,Allopathic,30.3734372,76.7783748
+Bansal hospital,"Mixi chowk, Near Kalka chowk, Ambala city
+","30.3781788, 76.7766974",Haryana,Ambala,Allopathic,30.3781788,76.7766974
+Healing Touch Superspeciality Hospital,"Sultanpur Chowk, Near.Dhulkot Barrier, 
+Ambala-Chandigarh Highway","30.5175306, 76.8087557",Haryana,Ambala,Allopathic,30.5175306,76.8087557
+Jaspal Hospital,"69, Model Town, Ambala City","30.3638896, 76.7956825",Haryana,Ambala,Allopathic,30.3638896,76.7956825
+Mehnidratta Hospital,"Manali house, Near Prem Nagar, Ambala City","30.3711033, 76.7866684",Haryana,Ambala,Allopathic,30.3711033,76.7866684
+Sanjivni Eye Care,"Near INCO, Opp Ambala Club, Model Town, Ambala City
+","30.3638896, 76.7956825",Haryana,Ambala,Allopathic,30.3638896,76.7956825
+"ESI Hospital, Bhiwani","Jail Road, Bhiwani","28.7990445, 76.1335112",Haryana,Bhiwani,Allopathic,28.7990445,76.1335112
+"Eye-Q Super Speciality Eye Hospitals, Bhiwani","Near Rohtak Gate, Dadri Road
+","28.719497, 76.3034857",Haryana,Bhiwani,Allopathic,28.719497,76.3034857
+MK Hospital,"5th Milestone, Delhi Bhiwani Road, 
+Bhiwani","19.2687576, 73.0458775",Haryana,Bhiwani,Allopathic,19.2687576,73.0458775
+Dhir Hospital,"Meham Chowk, Circular Road, Bhiwani 
+","28.7990445, 76.1335112",Haryana,Bhiwani,Allopathic,28.7990445,76.1335112
+"Aster eye care, Faridabad","DM Eye Care (Delhi) Pvt.Ltd. 
+5E/08, B.P, Railway Road, NIT 
+Faridabad","28.4056325, 77.305108",Haryana,Faridabad,Allopathic,28.4056325,77.305108
+"RG Stone Urology and Laparoscopy Hospital, Faridabad","A-6, Nehru Ground, Neelam Bata Road, NIT, Faridabad","28.3893131, 77.3073612",Haryana,Faridabad,Allopathic,28.3893131,77.3073612
+Drishti Eye Centre,"20-21F, Fruit Garden, Railway road, 
+Near.Green Automobile, 
+NIT Faridabad, Delhi -NCR
+","28.6139391, 77.2090212",Haryana,Faridabad,Allopathic,28.6139391,77.2090212
+Lakhotia Eye Centre and Laser Institute,"C-4, Main Market, Sector-37, Faridabad, Delhi -NCR, Haryana","28.6139391, 77.2090212",Haryana,Faridabad,Allopathic,28.6139391,77.2090212
+Fortis Escorts Hospital,"Neelam Bata Road, 
+Faridabad, Delhi","28.3882301, 77.3069287",Haryana,Faridabad,Allopathic,28.3882301,77.3069287
+Valencia Emergency and Critical Care,"5/37, Sec.37, Faridabad
+","28.5878501, 77.4027753",Haryana,Faridabad,Allopathic,28.5878501,77.4027753
+Perfect Vision,"SCF 45, Main Market, Sector 15, 
+Faridabad","28.3952729, 77.3238274",Haryana,Faridabad,Allopathic,28.3952729,77.3238274
+Gold Field Hospital and Research Center,"Vill.Chhainsa, Ballabgarh, Faridabad
+, Delhi","28.6139391, 77.2090212",Haryana,Faridabad,Allopathic,28.6139391,77.2090212
+"ESI Hospital, NH-3","NH-3, ESIC Building, 
+NIT Faridabad, Delhi- NCR","43.1938516, -71.5723953",Haryana,Faridabad,Allopathic,43.1938516,-71.5723953
+"Eye-Q Super Speciality Eye Hospitals, Fatehabad","H.No.7-8, Model Town, Near Bus Stand, Fatehabad
+","29.5143382, 75.4503181",Haryana,Fatehabad,Allopathic,29.5143382,75.4503181
+Arora Eye Hospital and Laser Centre,"Model Town, Fatehabad","29.5168326, 75.444669",Haryana,Fatehabad,Allopathic,29.5168326,75.444669
+Artemis Health Institute,"J - Block, Mayfield Gardens, Sector-51, Near Cyber Park, Gurgaon","28.4594965, 77.0266383",Haryana,Gurgaon,Allopathic,28.4594965,77.0266383
+"Metro Hospital and Heart Institute, Gurgaon","H - Block, Palam Vihar
+Gurgaon, Delhi -NCR","28.5003715, 77.0414187",Haryana,Gurgaon,Allopathic,28.5003715,77.0414187
+Neelkanth Hospital,"Mehrauli, Gurgaon Road, Near D.L.F.Corporate Park, Phase-III, Gurgaon, Delhi -NCR","28.6139391, 77.2090212",Haryana,Gurgaon,Allopathic,28.6139391,77.2090212
+Sahaj Dental Clinic,"A-105, Super Mart - I, DLF City, Phase - IV, Gurgaon, Delhi -NCR","28.6139391, 77.2090212",Haryana,Gurgaon,Allopathic,28.6139391,77.2090212
+Kathuria Hospital,"19/8, Model Town, Opp SD School, Khandsa Road, Gurgaon","28.4348057, 77.0032153",Haryana,Gurgaon,Allopathic,28.4348057,77.0032153
+"Anand Hospital
+","171, Sector-56, Gurgaon, Delhi -NCR","28.4428081, 77.0126957",Haryana,Gurgaon,Allopathic,28.4428081,77.0126957
+The Cradle,"SCO - 1, 2 and 3 Sector -14
+Gurgaon","28.4594965, 77.0266383",Haryana,Gurgaon,Allopathic,28.4594965,77.0266383
+"Paras Hospitals
+
+","C-1 Sushant Lok- 1 Sector-43 
+Phase- I Gurgaon","28.4749852, 77.0756754",Haryana,Gurgaon,"Allopathic, Ayush/ Ayurveda",28.4749852,77.0756754
+Ahooja Eye and Dental Institute,"560/1, Dayanand Colony
+New Railway Road
+Gurgaon","28.4636592, 77.0302472",Haryana,Gurgaon,Allopathic,28.4636592,77.0302472
+Arihant Hospital,"G-121, Oriental Villa, Sushant Lok III
+, Sector 57, Gurgaon
+","28.4219753, 77.0791496",Haryana,Gurgaon,Allopathic,28.4219753,77.0791496
+Artemis Health Institute / Arth Medical Centre,"Sector - 51 Gurgaon, Delhi- NCR","28.429647, 77.06652",Haryana,Gurgaon,Allopathic,28.429647,77.06652
+Bhardwaj Hospital,"Plot No - E / 1, Near Sunday Market
+Main Bajgerah Road, Rajendra Park, Gurgaon
+","28.492663, 77.0060658",Haryana,Gurgaon,Allopathic,28.492663,77.0060658
+Lall Eye Care Centre,"New Railway Road
+","28.4683613, 77.0255377",Haryana,Gurgaon,Allopathic,28.4683613,77.0255377
+Lall Nursing and Maternity Home,"3654, New Railway Road","28.4669288, 77.0271478",Haryana,Gurgaon,Allopathic,28.4669288,77.0271478
+Malik Hospital,Arjun Marg,"28.4663599, 77.1003219",Haryana,Gurgaon,Allopathic,28.4663599,77.1003219
+Mayom Hospital,"D - Block, South City 1","-37.7052598, 175.2082123",Haryana,Gurgaon,Allopathic,-37.7052598,175.2082123
+"Alchemist Hospital, Gurgaon","Sec 53, Saraswati Kunj, DLF Golf Course Road","28.4473955, 77.0962582",Haryana,Gurgaon,Allopathic,28.4473955,77.0962582
+Sethi Hospital,"301-302/4, Model Town, Basai Road","28.4567795, 77.0219311",Haryana,Gurgaon,Allopathic,28.4567795,77.0219311
+Shri Balaji Hospital and Trauma Centre,"Sector 9-10, Basai Road, Basai Chowk","28.4573069, 76.9904789",Haryana,Gurgaon,Allopathic,28.4573069,76.9904789
+Sitaram Bhartia Clinic,"Galleria, DLF city, Phase-IV
+
+","28.4677684, 77.0812587",Haryana,Gurgaon,Allopathic,28.4677684,77.0812587
+Sunrise Hospital,"Khandsa Road, Near Sector 10A","28.4437428, 77.0111419",Haryana,Gurgaon,Allopathic,28.4437428,77.0111419
+The Dental Lounge,"83, Arjun Marg, DLF Phase-1","28.4668715, 77.0977331",Haryana,Gurgaon,Allopathic,28.4668715,77.0977331
+Nova Care Clinic,New Railway Road,"28.4683613, 77.0255377",Haryana,Gurgaon,Allopathic,28.4683613,77.0255377
+"Centre For Sight, Gurgaon, New Railway Road","Plot 399/1, New railway road","28.673523, 77.3163754",Haryana,Gurgaon,Allopathic,28.673523,77.3163754
+Privat Hospital,"DLF City-II, M.G.Road Gurgaon, Haryana, Near MG Metro Station","28.479881, 77.080826",Haryana,Gurgaon,Allopathic,28.479881,77.080826
+"World Laparoscopy Hospital,","Cyber City, DLF Phase II","28.4936018, 77.088325",Haryana,Gurgaon,Allopathic,28.4936018,77.088325
+"Rockland Manesar, Gurgaon","Plot No.P-2, Sector-5, IMT, Manesar","28.3688093, 76.9268541",Haryana,Gurgaon,Allopathic,28.3688093,76.9268541
+"Eye-Q Super Speciality Eye Hospitals, Hisar, Barwala Road","H.No-433/9C/2, Tayal Garden, Barwala Road","29.1694579, 75.7268204",Haryana,Hisar,Allopathic,29.1694579,75.7268204
+Jawa Children Hospital,"Child Care Centre, Sector-13","28.6452089, 77.3447853",Haryana,Hisar,Allopathic,28.6452089,77.3447853
+National Fertility and Test Tube Baby Centre,"Tayal Garden, Barwala Road","29.1694579, 75.7268204",Haryana,Hisar,Allopathic,29.1694579,75.7268204
+Geetanjali Hospital,"270-N, Gurudwara Road, Near Post Office, Model Town","29.3869559, 76.9564629",Haryana,Hisar,Allopathic,29.3869559,76.9564629
+Jindal Institute of Medical Sciences,Model Town,"29.1339562, 75.7422368",Haryana,Hisar,Allopathic,29.1339562,75.7422368
+Khetarpaul Hospital,"S.C.F 211, C.U.E.1, Green Square","29.9577612, 31.2752291",Haryana,Hisar,Allopathic,29.9577612,31.2752291
+Sharma Nursing Home,"Prem Nagar
+","29.1538909, 75.7160693",Haryana,Hisar,Allopathic,29.1538909,75.7160693
+Central Medical Centre (CMC),"Near Dabra Chowk, Delhi Road","29.1517831, 75.7257012",Haryana,Hisar,Allopathic,29.1517831,75.7257012
+Shanti Ano-Rectal Hospital,"Jindal Chowk, Model Town
+","29.1345683, 75.7473837",Haryana,Hisar,Allopathic,29.1345683,75.7473837
+Shanti Ano-Rectal Hospital and Kshar Sutra Centre,"Subhash park, Jindal Chowk","29.133643, 75.747238",Haryana,Hisar,Allopathic,29.133643,75.747238
+Gangaputra Hospital and Research Centre,"Kaithal Road, Kandela","29.7856734, 76.3984537",Haryana,Jind,"Allopathic, Ayush/ Ayurveda/ Unani/ Homeopathy",29.7856734,76.3984537
+Dr. Meenakshi Jain Hospital,"55/6, Gandhi Nagar, Near Telegraph Office","12.9831164, 80.2207518",Haryana,Jind,Allopathic,12.9831164,80.2207518
+Arora Eye and Lasik Laser Centre,"650, Sector- 7, Urban State","29.9689992, 76.873699",Haryana,Karnal,Allopathic,29.9689992,76.873699
+Karnal Nursing Home,"26, Duggal Colony","29.6956184, 76.9914875",Haryana,Karnal,Allopathic,29.6956184,76.9914875
+"Life Care Hospital, Karnal","Main Market, Sector 7","28.5685947, 77.1721518",Haryana,Karnal,Allopathic,28.5685947,77.1721518
+Tagore Hospital,"H N- 7, Sector, Urban Estate","29.9702709, 76.8736988",Haryana,Karnal,Allopathic,29.9702709,76.8736988
+R P Stone Clinic Pvt.Ltd..Karnal,"37-38, Sector-14, Urban Estate","30.678704, 76.844589",Haryana,Karnal,Allopathic,30.678704,76.844589
+Sidharth Hospital,"Ladwa Road, Shahbad Markanda","30.15764, 76.8766024",Haryana,Kurukshetra,Allopathic,30.15764,76.8766024
+Saraswati Mission Hospital,Ambala Road Pehowa,"30.0885435, 76.5474705",Haryana,Kurukshetra,Allopathic,30.0885435,76.5474705
+Om Spero Hospital,"56 KM Stone, NH-2, Delhi-Mathura Road, Palwal","28.1487362, 77.3320262",Haryana,Palwal,Allopathic,28.1487362,77.3320262
+Dr. Baglas Nursing Home,Delhi Mathura Road,"28.1487362, 77.3320262",Haryana,Palwal,Allopathic,28.1487362,77.3320262
+Perfect Vision Eye Centre,"1056/C-4-A, Bye Pass Road, Adjoining Punjab National Bank, 
+Rasoolpur Chowk, Palwal 
+","28.1487362, 77.3320262",Haryana,Palwal,Allopathic,28.1487362,77.3320262
+"Alchemist Hospital, Panchkula",Sector 21,"30.6747384, 76.8634479",Haryana,Panchkula,Allopathic,30.6747384,76.8634479
+Chakravarty Nursing Home,"207, Sector 10","30.6898813, 76.8483677",Haryana,Panchkula,Allopathic,30.6898813,76.8483677
+Chakravarty Polyclinics,"208, Sector-10","30.6898813, 76.8483677",Haryana,Panchkula,Allopathic,30.6898813,76.8483677
+Drishti Eye Hospital,"SCO-26, Sector-11","30.6864116, 76.8533575",Haryana,Panchkula,Allopathic,30.6864116,76.8533575
+Shri Ram Hospital,"1187, Sector 11, Near Main Bus Stand","23.216719, 72.6421769",Haryana,Panchkula,Allopathic,23.216719,72.6421769
+Phoenix Hospital,"SCO 8, Sector 16","30.6918894, 76.8370739",Haryana,Panchkula,"Allopathic, Ayush/ Ayurveda/ Naturopathy",30.6918894,76.8370739
+"ESI Hospital, Panipat",ESIC Building,"29.3909464, 76.9635023",Haryana,Panipat,Allopathic,29.3909464,76.9635023
+Madaan Hospital,"Assandh Road, Model Town
+","29.3942309, 76.9467794",Haryana,Panipat,Allopathic,29.3942309,76.9467794
+"Ravindra Hospital
+","638, Model Town","29.388958, 76.9599852",Haryana,Panipat,Allopathic,29.388958,76.9599852
+Dr. G.C.Gupta Hospital,"372-373, Huda Sec-2","29.3909464, 76.9635023",Haryana,Panipat,Allopathic,29.3909464,76.9635023
+"Eye-Q Super Speciality Eye Hospitals, Rewari","Garhi Bolini Chowk, Circular Road","28.1940591, 76.621356",Haryana,Rewari,Allopathic,28.1940591,76.621356
+Apex Health Care and Apex Hospital and Trauma Centre,"Plot No 5, Sector 6, Dharuhera","28.2142461, 76.7985669",Haryana,Rewari,Allopathic,28.2142461,76.7985669
+Arora Nursing Home,"Near Guru Chowk, Model Town
+","31.3084431, 75.5658979",Haryana,Rewari,Allopathic,31.3084431,75.5658979
+"Arora Nursing Home
+","Near Guru Chowk, Model Town","31.3084431, 75.5658979",Haryana,Rewari,Allopathic,31.3084431,75.5658979
+Dr.Gogias Super Speciality Dental Care Centre,"Delhi Road, 101, Opposite Liberty Theatre, Subhash Naga","28.6139391, 77.2090212",Haryana,Rohtak,Allopathic,28.6139391,77.2090212
+"Eye-Q Super Speciality Eye Hospitals, Rohtak","Makroli House, Sonipat Road","28.8958259, 76.6022492",Haryana,Rohtak,Allopathic,28.8958259,76.6022492
+"Ishwar Eye Centre
+","926, Vijay Park (Jhang Colony)","28.893931, 76.602983",Haryana,Rohtak,Allopathic,28.893931,76.602983
+Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences,Rohtak,"28.8955152, 76.606611",Haryana,Rohtak,Allopathic,28.8955152,76.606611
+"Shanti Maternity and Nursing Home
+","Jind Bypass Chowk, Jind Road, Jind Road","29.3211153, 76.3058328",Haryana,Rohtak,Allopathic,29.3211153,76.3058328
+Shri Baba Mast Nath Charitable Hospital,Asthal Bohar,"28.8580845, 76.6297232",Haryana,Rohtak,Allopathic,28.8580845,76.6297232
+Gaur Brahman Ayurvedic College,Brahmanwas-,"28.8955152, 76.606611",Haryana,Rohtak,Ayush/ Ayurveda,28.8955152,76.606611
+Apex Hospital,Circular Road,"29.5335931, 75.0177029",Haryana,Sirsa,Allopathic,29.5335931,75.0177029
+Neeraj Hospital,"Shiv Chowk, Circular Road","29.4671562, 77.7039176",Haryana,Sirsa,Allopathic,29.4671562,77.7039176
+Sangwan Nursing Home,"Sangwan Chowk, N.H -10","43.1938516, -71.5723953",Haryana,Sirsa,Allopathic,43.1938516,-71.5723953
+Mata Shanti Devi Institute of Nursing,Sirsa,"29.5335931, 75.0177029",Haryana,Sirsa,Allopathic,29.5335931,75.0177029
+Dr. Praveen Eye Hospital and Research Centre,Under Railway over bridge,"9.9818176, 76.2983614",Haryana,Sirsa,Allopathic,9.9818176,76.2983614
+Bansal Nursing Home,Valmiki Chowk,"29.5335931, 75.0177029",Haryana,Sirsa,Allopathic,29.5335931,75.0177029
+Bagla Eye Hospital and Laser Centre,"Color Road, Mandi Dabwali","29.9671034, 74.7001328",Haryana,Sirsa,Allopathic,29.9671034,74.7001328
+"Poojaneeya Mata Aas kaur Ji Ayurvedic Hospital
+","Near Shah Satnam ji, Dham, Sirsa","29.5335931, 75.0177029",Haryana,Sirsa,Ayush/ Ayurveda,29.5335931,75.0177029
+Mool Chand Jain Hospital,"Namaste Chowk, Ganaur","29.1349669, 77.0180345",Haryana,Sonipat,Allopathic,29.1349669,77.0180345
+"BPS GovernmentMedical College, Khanpur Kalan",Sonepat,"28.9287735, 77.091281",Haryana,Sonipat,Allopathic,28.9287735,77.091281
+"ESI Hospital, Jagadiri","ESIC Building, Jagadiri, Yamunanagar 
+","30.1290485, 77.2673901",Haryana,Yamunanagar,Allopathic,30.1290485,77.2673901
+"Eye-Q Super Speciality Eye Hospitals, Yamunanagar","Near Sapphire Hotel
+","30.1290485, 77.2673901",Haryana,Yamunanagar,Allopathic,30.1290485,77.2673901
+Jindal Hospital,"Sector-17, Huda, Jagadhari","30.1522754, 77.3008506",Haryana,Yamunanagar,Allopathic,30.1522754,77.3008506
+Ayurvedic Hospital,Rampur,"31.4492451, 77.6298122",Himachal Pradesh,Shimla,Ayush/ Ayurveda,31.4492451,77.6298122
+Ayurvedic Hospital,Rohru,"31.2045526, 77.7523608",Himachal Pradesh,Shimla,Ayush/ Ayurveda,31.2045526,77.7523608
+Civil Hospital,Rohru Shimla,"31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+Civil Hospital,Chopal,"30.9478979, 77.5901243",Himachal Pradesh,Shimla,Allopathic,30.9478979,77.5901243
+Civil Hospital,Jubbal,"31.1116916, 77.6664976",Himachal Pradesh,Shimla,Allopathic,31.1116916,77.6664976
+Civil Hospital,Junga,"31.0240057, 77.1916497",Himachal Pradesh,Shimla,Allopathic,31.0240057,77.1916497
+Civil Hospital,Kotgarh,"31.3113704, 77.4744889",Himachal Pradesh,Shimla,Allopathic,31.3113704,77.4744889
+Civil Hospital,Nerwa,"30.9190232, 77.6424486",Himachal Pradesh,Shimla,Allopathic,30.9190232,77.6424486
+Civil Hospital,Theog,"31.1260995, 77.3524522",Himachal Pradesh,Shimla,Allopathic,31.1260995,77.3524522
+Community Health Centre,"Nankhri, Shimla","31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+Community Health Centre,Chirgaon,"31.2373257, 77.8738864",Himachal Pradesh,Shimla,Allopathic,31.2373257,77.8738864
+Community Health Centre,Kumarsain,"31.3182709, 77.4458151",Himachal Pradesh,Shimla,Allopathic,31.3182709,77.4458151
+Community Health Centre,Suni,"31.2422245, 77.1221405",Himachal Pradesh,Shimla,Allopathic,31.2422245,77.1221405
+Community Health Centre,"Kotkhai, Shimla","31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+DDU Hospital,Shimla,"31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+Indira Gandhi Medical Collage,Shimla,"31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+Indus Hospital,"Nav Bahar, Shimla","31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+JNS Eye Care Centre,"Neelkunj, North Oak Sanjauli Shimla","31.1050849, 77.1923685",Himachal Pradesh,Shimla,Allopathic,31.1050849,77.1923685
+KNH Shimla,Shimla,"31.0927056, 77.1773458",Himachal Pradesh,Shimla,Allopathic,31.0927056,77.1773458
+MGMSCKHNERI,"Khneri, Rampur","31.4492451, 77.6298122",Himachal Pradesh,Shimla,Allopathic,31.4492451,77.6298122
+Primary Health Centre,Mashobra,"31.1296226, 77.2283453",Himachal Pradesh,Shimla,Allopathic,31.1296226,77.2283453
+Vyas Hospital,Bilaspur,"31.3594562, 76.7472294",Himachal Pradesh,Bilaspur,Allopathic,31.3594562,76.7472294
+Rainbow Hospital,Ghumarwin,"31.4491451, 76.7047904",Himachal Pradesh,Bilaspur,Allopathic,31.4491451,76.7047904
+Ayurvedic Hospital,KANDRAUR,"22.0796251, 82.1391412",Himachal Pradesh,Bilaspur,Ayush/ Ayurveda,22.0796251,82.1391412
+Civil Hospital,GHUMARWIN,"31.4491451, 76.7047904",Himachal Pradesh,Bilaspur,Allopathic,31.4491451,76.7047904
+Community Health Centre,MARKANDA,"22.0796251, 82.1391412",Himachal Pradesh,Bilaspur,Allopathic,22.0796251,82.1391412
+Community Health Centre,Bhareri,"31.4981518, 76.7563347",Himachal Pradesh,Bilaspur,Allopathic,31.4981518,76.7563347
+Community Health Centre,BARTHIN,"22.0796251, 82.1391412",Himachal Pradesh,Bilaspur,Allopathic,22.0796251,82.1391412
+Community Health Centre,JHANDUTTA,"22.0796251, 82.1391412",Himachal Pradesh,Bilaspur,Allopathic,22.0796251,82.1391412
+Community Health Centre,NAINA DEVI,"31.3064166, 76.5358173",Himachal Pradesh,Bilaspur,Allopathic,31.3064166,76.5358173
+Ayurvedic Hospital,Bilaspur,"31.3429426, 76.7625073",Himachal Pradesh,Bilaspur,Ayush/ Ayurveda,31.3429426,76.7625073
+Regional Hospital,Bilaspur,"31.3429426, 76.7625073",Himachal Pradesh,Bilaspur,Allopathic,31.3429426,76.7625073
+Ayurvedic Hospital,Bharmour,"32.442849, 76.5329269",Himachal Pradesh,Chamba,Ayush/ Ayurveda,32.442849,76.5329269
+Civil Hospital,"Subhash Chowk Rd, Moti Tiba","32.5352395, 75.9671164",Himachal Pradesh,Chamba,Allopathic,32.5352395,75.9671164
+Civil Hospital,Tissa,"32.5447632, 75.943557",Himachal Pradesh,Chamba,Allopathic,32.5447632,75.943557
+Community Health Centre,BHARMOUR,"32.442849, 76.5329269",Himachal Pradesh,Chamba,Allopathic,32.442849,76.5329269
+Community Health Centre,HOLI,"32.3307407, 76.5502682",Himachal Pradesh,Chamba,Allopathic,32.3307407,76.5502682
+Community Health Centre,Kihar,"32.4871571, 75.9408807",Himachal Pradesh,Chamba,Allopathic,32.4871571,75.9408807
+Community Health Centre,Killar,"33.0840737, 76.4071336",Himachal Pradesh,Chamba,Allopathic,33.0840737,76.4071336
+Community Health Centre,Purthi,"32.9151619, 76.4664307",Himachal Pradesh,Chamba,Allopathic,32.9151619,76.4664307
+Community Health Centre,Saluni,"32.7363886, 76.0290366",Himachal Pradesh,Chamba,Allopathic,32.7363886,76.0290366
+District Ayurvedic Hospital,Chamba,"32.5681863, 76.1208512",Himachal Pradesh,Chamba,Ayush/ Ayurveda,32.5681863,76.1208512
+Primary Health Centre,Kakira,"32.4559116, 75.9343484",Himachal Pradesh,Chamba,Allopathic,32.4559116,75.9343484
+Primary Health Centre,Purthi,"32.9151619, 76.4664307",Himachal Pradesh,Chamba,Allopathic,32.9151619,76.4664307
+Referral Hospital,CHOWARI,"32.4311794, 76.0130784",Himachal Pradesh,Chamba,Allopathic,32.4311794,76.0130784
+Regional Hospital,Hamirpur,"31.7612361, 76.4103088",Himachal Pradesh,Hamirpur,Allopathic,31.7612361,76.4103088
+Regional Hospital,Chamba,"32.5533633, 76.1258083",Himachal Pradesh,Chamba,Allopathic,32.5533633,76.1258083
+Ayurvedic Hospital,Kadiar,"31.7823639, 76.6358719",Himachal Pradesh,Hamirpur,Ayush/ Ayurveda,31.7823639,76.6358719
+Civil Hospital,Tauni Devi,"31.7143781, 76.5972223",Himachal Pradesh,Hamirpur,Allopathic,31.7143781,76.5972223
+Community Health Centre,BARSAR,"31.5255129, 76.4606468",Himachal Pradesh,Hamirpur,Allopathic,31.5255129,76.4606468
+Community Health Centre,Nadaun,"31.7785034, 76.3444587",Himachal Pradesh,Hamirpur,Allopathic,31.7785034,76.3444587
+Community Health Centre,Bhoranj,"31.6429515, 76.6427152",Himachal Pradesh,Hamirpur,Allopathic,31.6429515,76.6427152
+Community Health Centre,Bhoranj,"31.6429515, 76.6427152",Himachal Pradesh,Hamirpur,Allopathic,31.6429515,76.6427152
+Community Health Centre,Galore,"31.6853708, 76.5155834",Himachal Pradesh,Hamirpur,Allopathic,31.6853708,76.5155834
+Community Health Centre,Sujanpur Tira,"31.833859, 76.5054652",Himachal Pradesh,Hamirpur,Allopathic,31.833859,76.5054652
+DistrictAyurvedic Hospital,Hamirpur,"31.6861745, 76.5213092",Himachal Pradesh,Hamirpur,Ayush/ Ayurveda,31.6861745,76.5213092
+Jain Muni Ayurvedic Manvi Hospital,"Manvi, Hamirpur","31.6861745, 76.5213092",Himachal Pradesh,Hamirpur,Ayush/ Ayurveda,31.6861745,76.5213092
+Regional Hospital,Hamirpur,"31.6861745, 76.5213092",Himachal Pradesh,Hamirpur,Allopathic,31.6861745,76.5213092
+Dr.Rajendra Prasad Government Medical College,"Kangra Chamunda, Bye Pass, 
+NH - 20","32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+Fortis Hospital,"Kangra Dharamshala Road
+","32.1795436, 76.3228661",Himachal Pradesh,Kangra,Allopathic,32.1795436,76.3228661
+Ayurvedic College Hospital,Paprola,"32.0528329, 76.6340511",Himachal Pradesh,Kangra,Ayush/ Ayurveda,32.0528329,76.6340511
+Ayurvedic Hospital,DEHRA,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Ayush/ Ayurveda,32.0998031,76.2691006
+Ayurvedic Hospital,Harsar,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Ayush/ Ayurveda,32.0998031,76.2691006
+Civil Hospital,THURAL,"31.9244395, 76.4584777",Himachal Pradesh,Kangra,Allopathic,31.9244395,76.4584777
+Civil Hospital,KANGRA,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+Civil Hospital,Baijnath,"32.0521085, 76.6492869",Himachal Pradesh,Kangra,Allopathic,32.0521085,76.6492869
+Civil Hospital,Dehra,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+Civil Hospital,Nurpur,"32.3001342, 75.8853465",Himachal Pradesh,Kangra,Allopathic,32.3001342,75.8853465
+Civil Hospital,Palampur,"32.1077955, 76.5348237",Himachal Pradesh,Kangra,Allopathic,32.1077955,76.5348237
+Community Health Centre,Bhawarna,"32.0397936, 76.4996831",Himachal Pradesh,Kangra,Allopathic,32.0397936,76.4996831
+Community Health Centre,Dada Siba,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+Community Health Centre,Fatehpur,"32.1955777, 76.3564929",Himachal Pradesh,Kangra,Allopathic,32.1955777,76.3564929
+Community Health Centre,Indora,"32.1346319, 75.6891699",Himachal Pradesh,Kangra,Allopathic,32.1346319,75.6891699
+Community Health Centre,Jawalamukhi,"31.8752372, 76.3203091",Himachal Pradesh,Kangra,Allopathic,31.8752372,76.3203091
+Community Health Centre,Jawali,"32.1458134, 76.0114788",Himachal Pradesh,Kangra,Allopathic,32.1458134,76.0114788
+Community Health Centre,Kotkhai,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+Community Health Centre,Nagrota Bagwan,"32.1053971, 76.3789037",Himachal Pradesh,Kangra,Allopathic,32.1053971,76.3789037
+Community Health Centre,Nagrota Surian,"32.0550942, 76.0928511",Himachal Pradesh,Kangra,Allopathic,32.0550942,76.0928511
+Community Health Centre,Nankhari,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+Community Health Centre,Shahpur,"32.2197295, 76.1728373",Himachal Pradesh,Kangra,Allopathic,32.2197295,76.1728373
+Community Health Centre,Chadiyar,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+DistrictAyurvedic Hospital,Dharmshala,"32.219042, 76.3234037",Himachal Pradesh,Kangra,Ayush/ Ayurveda,32.219042,76.3234037
+Dr.RPMC Hospital,"Tanda, Kangra","31.6509576, 78.4751945",Himachal Pradesh,Kangra,Allopathic,31.6509576,78.4751945
+Halder kola Ayurvedic Hospital,Kangra,"31.6509576, 78.4751945",Himachal Pradesh,Kangra,Ayush/ Ayurveda,31.6509576,78.4751945
+Primary Health Centre,Gopalpur,"31.6509576, 78.4751945",Himachal Pradesh,Kinnaur,Allopathic,31.6509576,78.4751945
+Shree Balaji Hospital,"NH 88, Adarsh Colony, Kangra","32.1135971, 76.2807758",Himachal Pradesh,Kangra,Allopathic,32.1135971,76.2807758
+Zonal Hospital,Dharamsala,"31.6509576, 78.4751945",Himachal Pradesh,Kinnaur,Allopathic,31.6509576,78.4751945
+Community Health Centre,Sangla,"31.4254859, 78.2649956",Himachal Pradesh,Kinnaur,Allopathic,31.4254859,78.2649956
+Community Health Centre,Pooh,"31.7640211, 78.5902143",Himachal Pradesh,Kinnaur,Allopathic,31.7640211,78.5902143
+DistrictAyurvedic,Reckong Peo,"31.5390437, 78.2675478",Himachal Pradesh,Kinnaur,Ayush/ Ayurveda,31.5390437,78.2675478
+Primary Health Centre,Nichar,"31.5581415, 77.9467371",Himachal Pradesh,Kinnaur,Allopathic,31.5581415,77.9467371
+Project Hospital,Bhavanagar,"31.6509576, 78.4751945",Himachal Pradesh,Kinnaur,Allopathic,31.6509576,78.4751945
+Regional Hospital,Reckong Peo,"31.5390437, 78.2675478",Himachal Pradesh,Kinnaur,Allopathic,31.5390437,78.2675478
+Sri Harihar Hospital and Research Centre,Near GovernmentCollage The Mall Dhalpur,"23.7250083, 90.4053026",Himachal Pradesh,Kullu,Allopathic,23.7250083,90.4053026
+Lady Willngdon Hospital,Manali,"32.2396325, 77.1887145",Himachal Pradesh,Kullu,Allopathic,32.2396325,77.1887145
+"Ayurvedic Hospital, Katrai",Kullu,"31.957851, 77.1094597",Himachal Pradesh,Kullu,Ayush/ Ayurveda,31.957851,77.1094597
+Civil Hospital,Jari,"31.9995469, 77.2476997",Himachal Pradesh,Kullu,Allopathic,31.9995469,77.2476997
+Civil Hospital,Kullu,"31.957851, 77.1094597",Himachal Pradesh,Kullu,Allopathic,31.957851,77.1094597
+Civil Hospital,Manali,"32.2396325, 77.1887145",Himachal Pradesh,Kullu,Allopathic,32.2396325,77.1887145
+Civil Hospital,Nirmand,"31.4225306, 77.5762703",Himachal Pradesh,Kullu,Allopathic,31.4225306,77.5762703
+Community Health Centre,Dalash,"31.3859048, 77.4329048",Himachal Pradesh,Kullu,Allopathic,31.3859048,77.4329048
+Community Health Centre,Kaza,"32.2275991, 78.0709903",Himachal Pradesh,Lahaul and Spiti,Allopathic,32.2275991,78.0709903
+Community Health Centre,Udaypur,"32.6192107, 77.3783789",Himachal Pradesh,Lahaul and Spiti,Allopathic,32.6192107,77.3783789
+Community Health Centre,"SH 26, Shansha","32.6161802, 76.9034408",Himachal Pradesh,Lahaul and Spiti,Allopathic,32.6161802,76.9034408
+DistrictAyurvedic Hospital,Keylong,"32.5709987, 77.0319784",Himachal Pradesh,Lahaul and Spiti,Ayush/ Ayurveda,32.5709987,77.0319784
+Primary Health Centre,Tabo,"32.0932586, 78.3856447",Himachal Pradesh,Lahaul and Spiti,Allopathic,32.0932586,78.3856447
+Regional Hospital,Keylong,"32.5709987, 77.0319784",Himachal Pradesh,Lahaul and Spiti,Allopathic,32.5709987,77.0319784
+Niramay Clinic,"Hospital road, Post office Mandi","17.3475489, 78.506413",Himachal Pradesh,Mandi,Allopathic,17.3475489,78.506413
+Ayurvedic Hospital,Joginder nagar,"31.9912388, 76.7899135",Himachal Pradesh,Mandi,Ayush/ Ayurveda,31.9912388,76.7899135
+Civil Hospital,Joginder nagar,"31.9912388, 76.7899135",Himachal Pradesh,Mandi,Allopathic,31.9912388,76.7899135
+Civil Hospital,Karsog,"31.3813366, 77.2045867",Himachal Pradesh,Mandi,Allopathic,31.3813366,77.2045867
+DistrictAyurvedic Hospital,Mandi,"31.7081655, 76.9313675",Himachal Pradesh,Mandi,Ayush/ Ayurveda,31.7081655,76.9313675
+Neta Ji Subhash Chander Bose Zonal Hospital,Mandi,"31.7081655, 76.9313675",Himachal Pradesh,Mandi,Allopathic,31.7081655,76.9313675
+Primary Health Centre,DhaRampur,"31.8029903, 76.7603434",Himachal Pradesh,Mandi,Allopathic,31.8029903,76.7603434
+Primary Health Centre,Kotli,"31.7574335, 76.8728167",Himachal Pradesh,Mandi,Allopathic,31.7574335,76.8728167
+Primary Health Centre,Ratti,"31.6007676, 76.9081238",Himachal Pradesh,Mandi,Allopathic,31.6007676,76.9081238
+Primary Health Centre,Rewalsar,"31.6321926, 76.8331743",Himachal Pradesh,Mandi,Allopathic,31.6321926,76.8331743
+Referal Hospital,Sarkaghat,"31.6989558, 76.7324084",Himachal Pradesh,Mandi,Allopathic,31.6989558,76.7324084
+Indira Gandhi Medical College and Hospital,Indira Gandhi Medical College,"11.9472547, 79.7896601",Himachal Pradesh,Shimla,Allopathic,11.9472547,79.7896601
+Goel Eye Clinic,"30, Lakkar bazar","31.1058233, 77.1787114",Himachal Pradesh,Shimla,Allopathic,31.1058233,77.1787114
+Dr.Lakhanpaul Nursing Home Dental Speciality Centre,"Top Floor-63, Lower Bazar","23.311436, 85.317204",Himachal Pradesh,Shimla,Allopathic,23.311436,85.317204
+Inder Dental Clinic,Sanjouli,"31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+Goel Dental Clinic,Lakkar Bazar,"31.1058233, 77.1787114",Himachal Pradesh,Shimla,Allopathic,31.1058233,77.1787114
+Abhinav Dental Clinic,Chhotta,"31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+Patient Care Clinic,BCS Market New Shimla,"31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+Nirmal Clinical,"Inder Place Market Near
+Sanjauli Chowk Shimla","31.1038132, 77.1929875",Himachal Pradesh,Shimla,Allopathic,31.1038132,77.1929875
+Vidya Clinic,79/1 Lower Bazar Shimla,"31.103468, 77.1757122",Himachal Pradesh,Shimla,Allopathic,31.103468,77.1757122
+Vijay Clinic,Khalini Chowk,"31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+Shimla Gyane Centre,Bondary Chhota,"31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+Lions Grewal Eye Institute,"459, Sector-4, Phase-II, New Shimla","31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+Dr.Jitender Eye Hospital,74 The mall,"31.1071394, 77.1708039",Himachal Pradesh,Shimla,Allopathic,31.1071394,77.1708039
+Medicare Lab and Ultrasound Centre,Himland,"31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+Grover Dental Clinic,The Mall,"31.1071394, 77.1708039",Himachal Pradesh,Shimla,Allopathic,31.1071394,77.1708039
+Aastha Hospital,Panthaghati,"31.0679382, 77.180149",Himachal Pradesh,Shimla,Allopathic,31.0679382,77.180149
+Maria Clinic,The Mall,"31.1071394, 77.1708039",Himachal Pradesh,Shimla,Allopathic,31.1071394,77.1708039
+Shri Ram Medical Centre,The Mall,"31.1071394, 77.1708039",Himachal Pradesh,Shimla,Allopathic,31.1071394,77.1708039
+Regional Ayurvedic Hospital,Chotta Shimla Kasumpti Road,"31.0869735, 77.1801916",Himachal Pradesh,Shimla,Ayush/ Ayurveda,31.0869735,77.1801916
+Gastroentrology Endoscopy Centre,Lakkar Bazar Near IGMC,"31.1065156, 77.1816614",Himachal Pradesh,Shimla,Allopathic,31.1065156,77.1816614
+Shimla Sanitorium Hospital,"Chora Maidan, Shimla","31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+Sri Ram Hospital,18-D Sec-1 New Shimla,"31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+Civil Hospital,Sarahan,"30.7258579, 77.1854543",Himachal Pradesh,Sirmaur,Allopathic,30.7258579,77.1854543
+Civil Hospital,Rajgarh,"30.849989, 77.2994144",Himachal Pradesh,Sirmaur,Allopathic,30.849989,77.2994144
+Community Health Centre,Shillai,"30.6748131, 77.7065754",Himachal Pradesh,Sirmaur,Allopathic,30.6748131,77.7065754
+Community Health Centre,Sangrah,"30.6957312, 77.4257319",Himachal Pradesh,Sirmaur,Allopathic,30.6957312,77.4257319
+DistrictAyurvedic Hospital,Nahan,"30.5599327, 77.295483",Himachal Pradesh,Sirmaur,Ayush/ Ayurveda,30.5599327,77.295483
+Primary Health Centre,Naura Dhar,"30.8784866, 77.2008209",Himachal Pradesh,Sirmaur,Allopathic,30.8784866,77.2008209
+Referral Hospital,Dadahu,"30.6010337, 77.4381946",Himachal Pradesh,Sirmaur,Allopathic,30.6010337,77.4381946
+Referral Hospital,Nahan,"30.5599327, 77.295483",Himachal Pradesh,Sirmaur,Allopathic,30.5599327,77.295483
+Puran Hospital,"Rampur Ghat Road, Paonta sahib","30.4441645, 77.6349041",Himachal Pradesh,Sirmaur,Allopathic,30.4441645,77.6349041
+Pawar Nursing Home,Paonta Sahib,"30.445283, 77.6020569",Himachal Pradesh,Sirmaur,Allopathic,30.445283,77.6020569
+Himachal Institute of Dental Sciences,Paonta Sahib,"30.445283, 77.6020569",Himachal Pradesh,Sirmaur,Allopathic,30.445283,77.6020569
+Sneh Hospital,Kala Amb,"30.4992306, 77.2070259",Himachal Pradesh,Sirmaur,Allopathic,30.4992306,77.2070259
+Malan Nursing Home,Tank Road,"30.9081066, 77.1093549",Himachal Pradesh,Solan,Allopathic,30.9081066,77.1093549
+Aggarwal Eye Hospital,Rajgarh Road,"30.892449, 77.1056296",Himachal Pradesh,Solan,Allopathic,30.892449,77.1056296
+Bhojia General Hospital,Buddh Baddi,"30.9578258, 76.7913558",Himachal Pradesh,Solan,Allopathic,30.9578258,76.7913558
+City Hospital,Rajgarh Road,"30.892449, 77.1056296",Himachal Pradesh,Solan,Allopathic,30.892449,77.1056296
+JP Hospital and Paediatric Centre,Hospital Road,"30.9067042, 77.1075578",Himachal Pradesh,Solan,Allopathic,30.9067042,77.1075578
+Aakash Hospital,Nalagarh,"31.0445587, 76.7047904",Himachal Pradesh,Solan,Allopathic,31.0445587,76.7047904
+Ayurvedic Hospital,Nalagarh,"31.0445587, 76.7047904",Himachal Pradesh,Solan,Ayush/ Ayurveda,31.0445587,76.7047904
+Civil Hospital,Chail,"30.9676214, 77.1916497",Himachal Pradesh,Solan,Allopathic,30.9676214,77.1916497
+Civil Hospital,Arki,"31.1562331, 76.9686717",Himachal Pradesh,Solan,Allopathic,31.1562331,76.9686717
+Civil Hospital,Kandaghat,"30.9702143, 77.1053673",Himachal Pradesh,Solan,Allopathic,30.9702143,77.1053673
+Community Health Centre,DhaRampur,"30.8994362, 77.0190228",Himachal Pradesh,Solan,Allopathic,30.8994362,77.0190228
+Community Health Centre,Nalagarh,"31.0445587, 76.7047904",Himachal Pradesh,Solan,Allopathic,31.0445587,76.7047904
+E.S.I.Hospital,Parwanoo,"30.8371639, 76.9614255",Himachal Pradesh,Solan,Allopathic,30.8371639,76.9614255
+Primary Health Centre,Darlaghat,"31.2372527, 76.9354979",Himachal Pradesh,Solan,Allopathic,31.2372527,76.9354979
+Primary Health Centre,Kunihar,"31.0795387, 76.9614255",Himachal Pradesh,Solan,Allopathic,31.0795387,76.9614255
+Regional Hospital,Solan,"30.9044857, 77.0967357",Himachal Pradesh,Solan,Allopathic,30.9044857,77.0967357
+"Anandraj Malik Hospital and Diagnostic Centre
+",Mehatpur,"31.4078164, 76.3434679",Himachal Pradesh,Una,Allopathic,31.4078164,76.3434679
+"Ayurvedic Hospital, Ispur",una,"31.468445, 76.2707745",Himachal Pradesh,Una,Ayush/ Ayurveda,31.468445,76.2707745
+Civil Hospital,Chintpurni,"31.8054391, 76.1044506",Himachal Pradesh,Una,Allopathic,31.8054391,76.1044506
+Community Health Centre,Amb,"31.6798005, 76.1174988",Himachal Pradesh,Una,Allopathic,31.6798005,76.1174988
+Community Health Centre,Bangana,"31.613824, 76.3579401",Himachal Pradesh,Una,Allopathic,31.613824,76.3579401
+Community Health Centre,Daulatpur,"31.7747487, 75.9985446",Himachal Pradesh,Una,Allopathic,31.7747487,75.9985446
+Community Health Centre,Gagret,"31.6622025, 76.0594972",Himachal Pradesh,Una,Allopathic,31.6622025,76.0594972
+Community Health Centre,Haroli,"31.422338, 76.2319793",Himachal Pradesh,Una,Allopathic,31.422338,76.2319793
+Community Health Centre,Amb,"31.6798005, 76.1174988",Himachal Pradesh,Una,Allopathic,31.6798005,76.1174988
+District Ayurvedic Hospital,Una,"31.468445, 76.2707745",Himachal Pradesh,Una,Ayush/ Ayurveda,31.468445,76.2707745
+Primary Health Centre,Amlehar,"31.7504338, 76.0769825",Himachal Pradesh,Una,Allopathic,31.7504338,76.0769825
+Regional Hospital,Una,"31.468445, 76.2707745",Himachal Pradesh,Una,Allopathic,31.468445,76.2707745
+"Kullu Valley Hospital, Kullu",Shashtri Nager,"31.9560442, 77.1112605",Himachal Pradesh,Kullu,Allopathic,31.9560442,77.1112605
+SDKL Memorial Gloda Hospital,93 Roop Nager Ward Number 9,"32.7733349, 74.8397332",Himachal Pradesh,Hamirpur,Allopathic,32.7733349,74.8397332
+Parvati Charitable Hospital,"Village- Dashmal, P.O.Dimmi","31.6807826, 76.6205621",Himachal Pradesh,Hamirpur,Allopathic,31.6807826,76.6205621
+Sai Mahima Shukla Hospital,Ram Nager,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+Mela Mal Sood Rotary Eye Hospital,Kangra,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+"Sood Nursing Home, Chahri","Chahri Road, Nagrota Bagwan","32.1053971, 76.3789037",Himachal Pradesh,Kangra,Allopathic,32.1053971,76.3789037
+Dr.V.K.Mahajan Clinic Diagnostic and Treatment Centre,Opposite SBP,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+Dr.Vijay Chaudhary Hospital,Near Income Tax Office,"12.9246632, 80.1144076",Himachal Pradesh,Kangra,Allopathic,12.9246632,80.1144076
+Kapila Nursing Home,Baijnath Road,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+Karan Hospital,Ghuggar Tanda,"32.0946489, 76.5300365",Himachal Pradesh,Kangra,Allopathic,32.0946489,76.5300365
+Kashmiri?s Dental Clinic,110 Lower Depot Bazar,"17.4274818, 78.4998505",Himachal Pradesh,Kangra,Allopathic,17.4274818,78.4998505
+Khanna Clinic,Civil Line,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+Panchsheel Nursing Home Private Limited,Near Railway Station,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+Pathania Dental Clinic,"Near Rainbow School, Barol (Dari)","31.301887, 75.57624",Himachal Pradesh,Kangra,Allopathic,31.301887,75.57624
+R.K.Nursing Home,Birta,"32.115883, 76.2899071",Himachal Pradesh,Kangra,Allopathic,32.115883,76.2899071
+Mahajan Medical and Health Care Centre,Shyamnager,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+Verma Dental Clinic,Opposite SBP Kangra,"32.0998031, 76.2691006",Himachal Pradesh,Kangra,Allopathic,32.0998031,76.2691006
+Banga Associated Hospital (Eye Hospital),Dadour Ner Chowk,"31.6085219, 76.9153281",Himachal Pradesh,Mandi,Allopathic,31.6085219,76.9153281
+Banga Diagnostic,Jail Road,"31.7037018, 76.9259812",Himachal Pradesh,Mandi,Allopathic,31.7037018,76.9259812
+Mandav Hospital,Jail Road,"31.7037018, 76.9259812",Himachal Pradesh,Mandi,Allopathic,31.7037018,76.9259812
+Sanjeevan Hospital,134/5 Mandi,"31.7086338, 76.9275225",Himachal Pradesh,Mandi,Allopathic,31.7086338,76.9275225
+Kailash Clinic Mandi,Near Chanderlok Chobatta Bazar,"31.7101213, 76.9325094",Himachal Pradesh,Mandi,Allopathic,31.7101213,76.9325094
+"H.S.Malhotra Clinic, Mandi","91/8, Bhut Nath Bazar","31.7104853, 76.9320314",Himachal Pradesh,Mandi,Allopathic,31.7104853,76.9320314
+Tooth Care Dental Clinic andOrthodontics Centre,82/10 Post Office Road,"35.5234157, -79.1613046",Himachal Pradesh,Mandi,Allopathic,35.5234157,-79.1613046
+Jagriti Medical Centre,Purani Mandi Near Middle School,"31.0157458, 73.8521521",Himachal Pradesh,Mandi,Allopathic,31.0157458,73.8521521
+Vinayak Eye Hospital,Near Gurudwara Nerchowk,"31.4655589, 76.2658077",Himachal Pradesh,Mandi,Allopathic,31.4655589,76.2658077
+"Dr.Suman Heart Centre, The Ridge Shimla",The Ridge,"31.1047025, 77.1739595",Himachal Pradesh,Shimla,Allopathic,31.1047025,77.1739595
+"Indus Hospital, Shimla",Jakhoo,"31.1048145, 77.1734033",Himachal Pradesh,Shimla,Allopathic,31.1048145,77.1734033
+"Neuro Centre, Shimla","Keyonthal Complex, Khalini","31.0902089, 77.1709387",Himachal Pradesh,Shimla,Allopathic,31.0902089,77.1709387
+Navjeevan Nursing Home,Rajgarh Road,"30.892449, 77.1056296",Himachal Pradesh,Solan,Allopathic,30.892449,77.1056296
+Nanda Hospital,Hamirpur Road,"31.4809485, 76.2731142",Himachal Pradesh,Una,Allopathic,31.4809485,76.2731142
+"Government Medical College, Jammu","Government Medical College, 
+Bakshi Nagar","32.7378396, 74.849251",Jammu and Kashmir,Jammu,Allopathic,32.7378396,74.849251
+Dr. K.D's Eye Hospital,"513- C, Sainik Colony","29.8635857, 77.8824892",Jammu and Kashmir,Jammu,Allopathic,29.8635857,77.8824892
+Santosh Eye Care Centre,373 Shastri Nagar,"32.7217819, 74.8576539",Jammu and Kashmir,Jammu,Allopathic,32.7217819,74.8576539
+Sri Maharaja Gulab Singh ( SMGS) Hospital,"Shalamar, Resham Ghar Colony","32.7304089, 74.8616782",Jammu and Kashmir,Jammu,Allopathic,32.7304089,74.8616782
+"Centre For Sight, Trikuta Nagar","67, Sector-6, Trikuta Nagar","32.6883714, 74.9011466",Jammu and Kashmir,Jammu,Allopathic,32.6883714,74.9011466
+Sher-i-Kashmir Institute of Medical Sciences,"Sher - i - Kashmir Institute of Medical Sciences Soura, Srinaga","34.1375809, 74.803372",Jammu and Kashmir,Srinagar,Allopathic,34.1375809,74.803372
+"Government Medical College, Srinagar",Karan Nagar,"34.1255413, 74.9442585",Jammu and Kashmir,Srinagar,Allopathic,34.1255413,74.9442585
+Patliputra Medical College and Hospital,"Patliputra Medical College, BCCL Township","19.1503529, 72.8373754",Jharkhand,Hazaribag,Allopathic,19.1503529,72.8373754
+Rajendra Institute of Medical Sciences,"Rajendra Medical College and Hospital, Rajendra Institute of Medical Sciences Bariatu, Ranchi, Jharkhand","23.4004584, 85.3555111",Jharkhand,Ranchi,Allopathic,23.4004584,85.3555111
+St.John's Medical College Hospital,"Sarjapur Road, John Nagar, Koramangala","12.9309785, 77.6199608",Karnataka,Bengaluru Urban,Allopathic,12.9309785,77.6199608
+CGHS Dispensary No.7,"CGHS Dispensary No.7, Koramangala, CPWD
+Quarters, Koramangala","12.9279232, 77.6271078",Karnataka,Bengaluru Urban,Allopathic,12.9279232,77.6271078
+CGHS Dispensary No.8,"CGHS Dispensary No.8, Domlur, CPWD Quarters, Domlur","12.9609857, 77.6387316",Karnataka,Bengaluru Urban,Allopathic,12.9609857,77.6387316
+Aayugs Multispeciality Hospital,"477, 1st Main, B Block","30.5781488, -91.1700371",Karnataka,Bengaluru Urban,Allopathic,30.5781488,-91.1700371
+"Abhaya Eye Hospital, Super Speciality Eye Care Centre","77, 100 Ft.Ring Road, B.S.K.3rd Stage, 5th Block","12.9247325, 77.6186378",Karnataka,Bengaluru Urban,Allopathic,12.9247325,77.6186378
+Abhishek Netradhama,"HIG 2024, 3rd B Cross, B Sector, Opposite national public school, Near SBI Bank Yelahanka new town","13.1042445, 77.5713193",Karnataka,Bengaluru Urban,Allopathic,13.1042445,77.5713193
+Acura Speciality Hospital,"435, Acura Hospital, 18th Main, 6th Block, Koramangala","12.9279232, 77.6271078",Karnataka,Bengaluru Urban,Allopathic,12.9279232,77.6271078
+Apollo Bengaluru Cradle Limited,"No.25, 46th Cross, 5th Block, Jayanagar, Bengaluru","12.9167863, 77.5851803",Karnataka,Bengaluru Urban,Allopathic,12.9167863,77.5851803
+Apollo Speciality Hospital,"21/2, 14th Cross, 3rd Block, Jayanagar","12.9587626, 77.5235076",Karnataka,Bengaluru Urban,Allopathic,12.9587626,77.5235076
+Athreya Hospital,"6/2 B, Opposite Suryanagara, Phase 1, Chandpura, Anekal Main Road","12.7943073, 77.7064163",Karnataka,Bengaluru Urban,Allopathic,12.7943073,77.7064163
+"Bengaluru Hospital, Susruta Medical Aid And
+Research Home Limited","202, R.V.Road","12.9715987, 77.5945627",Karnataka,Bengaluru Urban,Allopathic,12.9715987,77.5945627
+Bengaluru Kidney Stone Hospital,Hudson Circle,"12.9715987, 77.5945627",Karnataka,Bengaluru Urban,Allopathic,12.9715987,77.5945627
+Bengaluru West Lions Hospital,J.C.Road,"12.9715987, 77.5945627",Karnataka,Bengaluru Urban,Allopathic,12.9715987,77.5945627
+Bhagawan Mahaveer Jain Heart Centre,"No.17, Millers Road, Vasantha Nagar","12.9911307, 77.5937662",Karnataka,Bengaluru Urban,Allopathic,12.9911307,77.5937662
+Bharath Nursing Home,"No 1402, Sarakki Gate, J P Nagar, 1st Phase, K.P.Main Road","12.911103, 77.57314",Karnataka,Bengaluru Urban,Allopathic,12.911103,77.57314
+Bharathy Hospital,"4, Nagarbhavi Main Road, Prasanthnagar","12.9761414, 77.5326436",Karnataka,Bengaluru Urban,Allopathic,12.9761414,77.5326436
+Chinmaya Mission Hospital,"1st stage, Indiranagar","12.9782591, 77.6448425",Karnataka,Bengaluru Urban,Allopathic,12.9782591,77.6448425
+Chinmaya Narayana Super Specialty Centre,"C.M.H.Road, Indiranagar, 2nd Stage","12.9783012, 77.6379484",Karnataka,Bengaluru Urban,Allopathic,12.9783012,77.6379484
+Chord Road Hospital Pvt Ltd,"100/101, Lic Colony West Of Chord, Basaveshwaranagar","12.9956355, 77.5504955",Karnataka,Bengaluru Urban,Allopathic,12.9956355,77.5504955
+"Cloud Nine, Jayanagar","1533, 9th Main, 
+3rd Block, Jayanagar","12.933863, 77.584263",Karnataka,Bengaluru Urban,Allopathic,12.933863,77.584263
+D.G.Hospital,Padmanabhanagar,"12.9714646, 77.5815375",Karnataka,Bengaluru Urban,Allopathic,12.9714646,77.5815375
+Devi Eye Hospital,"434, 18th Main, 80 Feet Road, 6th Block, Opposite Koramangala Bus Depot, Koramangala","12.9279232, 77.6271078",Karnataka,Bengaluru Urban,Allopathic,12.9279232,77.6271078
+Divya Drishti Eye Hospital,"966/ 22, Service Road, RPC Layout, Vijayanagar, Opposite Syndicate Bank","12.958047, 77.5341765",Karnataka,Bengaluru Urban,Allopathic,12.958047,77.5341765
+Dr.Zamindar Microsurgical Eye Centre,"No.1013, 1st Block, 3 Rd Cross, Hrbr Layout, Kalyan Nagar","13.0256425, 77.6366197",Karnataka,Bengaluru Urban,Allopathic,13.0256425,77.6366197
+Dr. T.V.Ramesh Piles Hospital,"1st Main Road, 7th Cross, Ganganagar","13.025502, 77.5576219",Karnataka,Bengaluru Urban,Allopathic,13.025502,77.5576219
+"Fortis Hospital, Nagarbhavi","No 23, 80 Feet Road, Gurukrupa Layout","12.920683, 77.556885",Karnataka,Bengaluru Urban,Allopathic,12.920683,77.556885
+Garden City Hospital,"132/18, 22nd Cross, Jayanagar, 3 rd Block","12.933219, 77.5815604",Karnataka,Bengaluru Urban,Allopathic,12.933219,77.5815604
+Gayathri Hospital,"91, Magadi Chord Road","12.974333, 77.542641",Karnataka,Bengaluru Urban,Allopathic,12.974333,77.542641
+HCG Bengaluru Institute Of Oncology,"44-45/2, 2nd Cross Raja Ram Mohan","12.953321, 77.531756",Karnataka,Bengaluru Urban,Allopathic,12.953321,77.531756
+"HCG, Koramangala","88, 17th, A Main, 2nd Cross, 5th Block, Koramangala","12.9350101, 77.6312173",Karnataka,Bengaluru Urban,Allopathic,12.9350101,77.6312173
+Hi Tech Kidney Stone Hospital,"240, 32nd Cross, 7 Th Block","12.927046, 77.579154",Karnataka,Bengaluru Urban,Allopathic,12.927046,77.579154
+Hitech Kidney Stone Hospital,"No.6/7, Crescent Road Cross, Kumar Park East","12.9917169, 77.5664805",Karnataka,Bengaluru Urban,Allopathic,12.9917169,77.5664805
+I-Aim Healthcare Centre,"74/2, Jarakabande Kaval (Behind CRPF Campus), Post Attur, Via Yelahanka","13.1004849, 77.5940134",Karnataka,Bengaluru Urban,Allopathic,13.1004849,77.5940134
+Jayashree Multispeciality Hospital,"25, 26, 27, 1st Cross Block","12.9993935, 77.540421",Karnataka,Bengaluru Urban,Allopathic,12.9993935,77.540421
+Jeevani Health And Medicare Private Limited,"No.11/2, Magadi Main Road, Agrahara Dasarahalli","12.98061, 77.538619",Karnataka,Bengaluru Urban,Allopathic,12.98061,77.538619
+Karthik Nethralaya,"89, 7th cross, N R Colony, Near Bull temple","12.9656578, 77.5652661",Karnataka,Bengaluru Urban,Allopathic,12.9656578,77.5652661
+Kids Clinic India Pvt.Ltd.- Cloudnine,"No.47, 11th Main, 17th Cross, Malleshwaram","13.0082512, 77.5632061",Karnataka,Bengaluru Urban,Allopathic,13.0082512,77.5632061
+Kusuma Hospital,"237 / 37, 10 Th Main, Nagendra Block","12.9204899, 77.5515107",Karnataka,Bengaluru Urban,Allopathic,12.9204899,77.5515107
+Lalitha Healthcare Pvt.Ltd.(A Fortis Network Hospital),"No - 65, 1st Main, Seshadripuram","12.9785849, 80.2320987",Karnataka,Bengaluru Urban,Allopathic,12.9785849,80.2320987
+M.S. Ramaiah Memorial Hospitals(Only For Corporate),"M S R I T Nagar, New Bel Road","13.0344064, 77.5682976",Karnataka,Bengaluru Urban,Allopathic,13.0344064,77.5682976
+M.G. Speciality Health Care (A Unit Of Mgmi Hospitals(India) Pvt Ltd),"5/2, 13th Cross, Hosur Road, Wilson Garden","12.945783, 77.59732",Karnataka,Bengaluru Urban,Allopathic,12.945783,77.59732
+M.S. Ramaiah Harsha Hospital,"193/4m Sondekoppa Circle, N.H.-4, Nelamangala","13.0410322, 77.3914939",Karnataka,Bengaluru Urban,Allopathic,13.0410322,77.3914939
+M.S.R.Narayana Hrudayalaya,M.S.Ramaiah Memorial Hospital,"17.3337789, 77.9034879",Karnataka,Bengaluru Urban,Allopathic,17.3337789,77.9034879
+Mahaveer Eye Hospital Private Limited,"No.02, Sirur Park Road, Seshadripuram","12.9931308, 77.5728546",Karnataka,Bengaluru Urban,Allopathic,12.9931308,77.5728546
+Mallige Medical Centre,"31/32, Crescent Road","12.9851615, 77.5803852",Karnataka,Bengaluru Urban,Allopathic,12.9851615,77.5803852
+Medikeris Superspecaility Ent Centre,"No-9/91, Govindappa Road, Basavana Gudi","12.946587, 77.5722657",Karnataka,Bengaluru Urban,Allopathic,12.946587,77.5722657
+Narayana Multispeciality Hospital(A Unit Of Narayana Hrudayalaya Pvt Ltd),"Ca Site No 1, Basant Health Centre Building, 18th Main, Opposite Hsr Club","36.778261, -119.4179324",Karnataka,Bengaluru Urban,Allopathic,36.778261,-119.4179324
+"Narayana Nethralaya
+","No.121/C, Chord Road, Rajajinagar 1st `R`Block","13.011531, 77.552046",Karnataka,Bengaluru Urban,Allopathic,13.011531,77.552046
+Nature Cure Hospital,"No.1537/1, 9th Main Road, 3rd Block, Jayanagar","12.933267, 77.584489",Karnataka,Bengaluru Urban,Allopathic,12.933267,77.584489
+Neha Prakash Hospital,"8, V Phase, 6th Cross, New Town","28.4689118, 77.1411003",Karnataka,Bengaluru Urban,Allopathic,28.4689118,77.1411003
+Nethradhama Super Speciality Eye Hospital,"256/14, Kanakapura Main Road, 
+7th Block, Jayanagar","12.925255, 77.577359",Karnataka,Bengaluru Urban,Allopathic,12.925255,77.577359
+Nethradhama Superspeciality Eye Hospital,"66, Indiranagar Double Road, Hal 2nd Stage","12.97344, 77.635628",Karnataka,Bengaluru Urban,Allopathic,12.97344,77.635628
+"Nova Medical Center, Sadashiv Nagar","No 222/14, 5 Th Main Bellary Road, Sadashivnagar","13.0067174, 77.5814238",Karnataka,Bengaluru Urban,Allopathic,13.0067174,77.5814238
+Nu Hospitals,"C.A.6, 11th Cross, 15th Main, Padmanabhanagar","12.9091748, 77.597458",Karnataka,Bengaluru Urban,Allopathic,12.9091748,77.597458
+Padmabhushan Dr.M.C.Modi Charitable Eye Hospital,"Dr.M.C.Modi Road, Mahalakshmipuram","13.0122294, 77.6050075",Karnataka,Bengaluru Urban,Allopathic,13.0122294,77.6050075
+"Panacea Hospital, Nagarabhavi","611 /612, Nagarabhavi Main Road","12.9617571, 77.5216056",Karnataka,Bengaluru Urban,Allopathic,12.9617571,77.5216056
+Panacea Hospitals Private Limited,"334, 3rd Stage, 4th Block, Basaveshwaranagar","12.9935833, 77.5342741",Karnataka,Bengaluru Urban,Allopathic,12.9935833,77.5342741
+Parimala Speciality Hospital,"12/13, Bilekahalli, Bannerghatta Road","12.8594543, 77.5917489",Karnataka,Bengaluru Urban,Allopathic,12.8594543,77.5917489
+People Tree Hospitals,"2, Tumkur Road, Goreguntepalya","13.1582339, 77.32569",Karnataka,Bengaluru Urban,Allopathic,13.1582339,77.32569
+Prabha Eye Clinic and Research Centre,"504, 40th Cross Road, Jayanagar","12.919731, 77.575085",Karnataka,Bengaluru Urban,Allopathic,12.919731,77.575085
+Prashanth Hospital,"90-D, Bommanahalli Circle, Hosur road","12.9216826, 77.6200305",Karnataka,Bengaluru Urban,Allopathic,12.9216826,77.6200305
+Pristine Hospital,"No.877, Modi Hospital Road, West of Chord Road, II Stage Extension","12.9978747, 77.546252",Karnataka,Bengaluru Urban,Allopathic,12.9978747,77.546252
+Punya Hospital,"52 /10 80 Ft Road, Khb Colony Basaveshwaranagar","12.9862578, 77.5374814",Karnataka,Bengaluru Urban,Allopathic,12.9862578,77.5374814
+Raksha Multispeciality Hospital,"141/142, 1st Main, Krishnandanagar, Khb Colony","12.9861693, 77.5348568",Karnataka,Bengaluru Urban,Allopathic,12.9861693,77.5348568
+Ravi Kirloskar Memorial Hospital,"No.19, 2nd Main Road, 1st Phase, Peenya Industrial Area","12.9594745, 77.560953",Karnataka,Bengaluru Urban,Allopathic,12.9594745,77.560953
+Retina Institute Of Karnatakaa,"122, 5th Main Road, Chamarajpet","12.9567051, 77.5626974",Karnataka,Bengaluru Urban,Allopathic,12.9567051,77.5626974
+Sagar Hospitals,"DSI, Shavige Malleshwara Hills, Kumaraswamy Layout, Banashankari","12.9254533, 77.546757",Karnataka,Bengaluru Urban,Allopathic,12.9254533,77.546757
+Samprathi Eye Hospital And Squint Centre,"111 Railway Parallel Road, 7 Th Cross, Kumara Park (W)","13.0073714, 77.5601893",Karnataka,Bengaluru Urban,Allopathic,13.0073714,77.5601893
+Sankalp Netralaya and Polyclinic,"85/1, 19th Main Hsr Layout, Sector 1","12.9187631, 77.6449186",Karnataka,Bengaluru Urban,Allopathic,12.9187631,77.6449186
+Sankara Eye Hospital,"Varthur Main Road, Kundalahalli Gate, Marahahalli-White Field Road","12.9583404, 77.7155779",Karnataka,Bengaluru Urban,Allopathic,12.9583404,77.7155779
+Sapthagiri Hospital,"15, Hesaraghatta Main Road","13.0730767, 77.5030755",Karnataka,Bengaluru Urban,Allopathic,13.0730767,77.5030755
+Sarojini Hospital,"39/2, Yash Avenue, 8th Mile Circle, Nh 4, T.Dasarahalli","13.0506057, 77.5118463",Karnataka,Bengaluru Urban,Allopathic,13.0506057,77.5118463
+Sevakshetra Hospital,"27th Cross, Sevakshetra Hospital Road, B.S.K.II Stage","12.9714646, 77.5815375",Karnataka,Bengaluru Urban,Allopathic,12.9714646,77.5815375
+Shanbhag Nursing Home,"6, Thimmaiah Layout, 1st Main 3rd D Cross, 3rd Stage, 2nd Block","12.9236955, 77.5513525",Karnataka,Bengaluru Urban,Allopathic,12.9236955,77.5513525
+Shree Kalabyraveswara Swamy Ayurveda Medical College And Hospital,"No.10, Pipeline Road, RPC Layout, Vijayanagar, 2nd Stage","12.967283, 77.5447472",Karnataka,Bengaluru Urban,Ayush/ Ayurveda,12.967283,77.5447472
+Shri Krishna Sevashrama Hospital,"523, 10th Main, 
+45th Cross, 5th Block, Jayanagar","12.9172801, 77.5850057",Karnataka,Bengaluru Urban,Allopathic,12.9172801,77.5850057
+Sri Sai North Side Hospital,"8, G Block, 60 Feet Road","12.9723418, 77.5147716",Karnataka,Bengaluru Urban,Allopathic,12.9723418,77.5147716
+Sri Sai Ram Hospital,No.6 J.C.Industrial Area,"29.2660313, 47.8625634",Karnataka,Bengaluru Urban,Allopathic,29.2660313,47.8625634
+Sri Venkateshwara Hospitals,"86 Hosur Main Road, Madivala","12.9325662, 77.6125214",Karnataka,Bengaluru Urban,Allopathic,12.9325662,77.6125214
+St. Johns Hospital,"St.Johs Medical College Hospital, Johnnagar","12.9288874, 77.6131577",Karnataka,Bengaluru Urban,Allopathic,12.9288874,77.6131577
+St. Martha'S Heart Center (Managed By Narayana Health),"Office No-05, Nrupathunga Road","12.9713221, 77.5869159",Karnataka,Bengaluru Urban,Allopathic,12.9713221,77.5869159
+"St. John?S Medical College Hospital
+","John nagar, Koramangala","12.9309785, 77.6199608",Karnataka,Bengaluru Urban,Allopathic,12.9309785,77.6199608
+St. Marthas Hospital,Nrupathunga Road,"12.969805, 77.587251",Karnataka,Bengaluru Urban,Allopathic,12.969805,77.587251
+St. Philomina?S Hospital,"No.1, Neelasandra Road","12.9624895, 77.611882",Karnataka,Bengaluru Urban,Allopathic,12.9624895,77.611882
+St. Theresa'S Hospital,Rajajinagar,"13.0061399, 77.5537558",Karnataka,Bengaluru Urban,Allopathic,13.0061399,77.5537558
+Suguna Hospital,"1A/87, Dr.Rajkumar Road, 4th N Block, Rajajinagar","12.988145, 77.560033",Karnataka,Bengaluru Urban,Allopathic,12.988145,77.560033
+Sun Orthopaedic Hospital,"24, Brindaban Nagar, 80 Feet Main Road, Mathikere","13.0267169, 77.6312652",Karnataka,Bengaluru Urban,Allopathic,13.0267169,77.6312652
+The Bengaluru Hospital,"202, Rashtriya Vidyalaya road, 
+Basavanagudi","12.937683, 77.580401",Karnataka,Bengaluru Urban,Allopathic,12.937683,77.580401
+The Eye Foundation,"79/5, Outer Ring Road, Bellandur","12.9233078, 77.672381",Karnataka,Bengaluru Urban,Allopathic,12.9233078,77.672381
+Trinity Hospital And Heart Foundation,"Near R.V.Teachers College Circle, Basavanagudi","12.9436431, 77.5799234",Karnataka,Bengaluru Urban,Allopathic,12.9436431,77.5799234
+"Vasan Eye Care Hospital, Banaswadi","205-4c, 4th Cross, 3 Road Block","12.9174767, 77.5460289",Karnataka,Bengaluru Urban,Allopathic,12.9174767,77.5460289
+"Vasan Eye Care Hospital, Hsr Layout","1127/A, 7th Sector, Near Bda Complex","12.9618305, 77.6378198",Karnataka,Bengaluru Urban,Allopathic,12.9618305,77.6378198
+"Vasan Eye Care Hospital, Jayanagar","No.28 and 29, 7 Th Main Diagonal Road, Jayanagar","12.9290883, 77.5819886",Karnataka,Bengaluru Urban,Allopathic,12.9290883,77.5819886
+"Vasan Eye Care Hospital, Koramangala","No.897/C, 80 Feet Road, 6th Block, Koramangala","12.9387563, 77.6260423",Karnataka,Bengaluru Urban,Allopathic,12.9387563,77.6260423
+"Vasan Eye Care Hospital, Marathalli","No.25/5 D, Outer Ring Road, Marathalli","12.9167541, 77.6111065",Karnataka,Bengaluru Urban,Allopathic,12.9167541,77.6111065
+"Vasan Eye Care Hospital, Nagarabhavi","No-5, 20 Th Cross, Malagala Under Pass Ring Road","12.9746047, 77.514911",Karnataka,Bengaluru Urban,Allopathic,12.9746047,77.514911
+"Vasan Eye Care Hospital, R.T.Nagar","No.533, 108 Bus Stop, Ganganagar","13.0150223, 77.6511543",Karnataka,Bengaluru Urban,Allopathic,13.0150223,77.6511543
+"Vasan Eye Care Hospital, Rajarajeswari Nagar","483, 16 Th Cross, 8 Th Main","12.9451479, 77.5977548",Karnataka,Bengaluru Urban,Allopathic,12.9451479,77.5977548
+Vijaya Ent Care Centre,"Super Speciality Otology Centre, No.1, 9th Cross Malleshwaram","13.0000884, 77.5670569",Karnataka,Bengaluru Urban,Allopathic,13.0000884,77.5670569
+Vijayashree Hospitals,"3, Gottigere, Bannerghatta Main Road","12.8561618, 77.5889291",Karnataka,Bengaluru Urban,Allopathic,12.8561618,77.5889291
+Vinayaka Hospital,"110, 1st Main, Sbm Colony, Bsk 1st Stage Hanumantha Nagar","13.0296311, 77.5911303",Karnataka,Bengaluru Urban,Allopathic,13.0296311,77.5911303
+Vishwabharathi Hospital Private Limited,"No.10/4, 3rd Main Road, Hanumanthanagar","12.9247108, 77.5438845",Karnataka,Bengaluru Urban,Allopathic,12.9247108,77.5438845
+Vydehi Institute Of Medical Sciencs And Research Center,"82, Epip Area, White Field","12.9722607, 77.7175003",Karnataka,Bengaluru Urban,Allopathic,12.9722607,77.7175003
+Yashomati Hospitals Pvt.Ltd.,"2371 / 3, Hal Airport Varthur Road","12.9556983, 77.7112837",Karnataka,Bengaluru Urban,Allopathic,12.9556983,77.7112837
+Yellamma Dasappa Hospital,"25, Andree Road, Shanti Nagar","12.9607569, 77.594633",Karnataka,Bengaluru Urban,Allopathic,12.9607569,77.594633
+Zion Hospital And Research Centre Pvt.Ltd.,"No.1, 1 Cross Rananurthy Road","13.014682, 77.6702166",Karnataka,Bengaluru Urban,Allopathic,13.014682,77.6702166
+Ananya Hospital,"No.389/44, 19th Main, 1st Block, Rajajinagar","12.999754, 77.550445",Karnataka,Bengaluru Urban,Allopathic,12.999754,77.550445
+Columbia Asia Referral Hospital,"26/4, Brigade Gateway, Malleswaram West","13.0123801, 77.5570553",Karnataka,Bengaluru Urban,Allopathic,13.0123801,77.5570553
+"Kidwai Cancer Institute, Bangalore",Dr.M.H Marigowda Road,"12.9372107, 77.6018794",Karnataka,Bengaluru Urban,Allopathic,12.9372107,77.6018794
+BGS Global Hospitals,"67, Uttarahalli Road, Kengeri","12.9026124, 77.519571",Karnataka,Bengaluru Urban,Allopathic,12.9026124,77.519571
+Vagus Super Speciality Hospital,"6/7/8, 4th Main, 18th Cross, Chitrashilpi Venkatappa Road, Malleshwaram","13.008767, 77.5657871",Karnataka,Bengaluru Urban,Allopathic,13.008767,77.5657871
+Mallya Hospital,No.2 Vittal Mallya Road,"12.9679749, 77.595018",Karnataka,Bengaluru Urban,Allopathic,12.9679749,77.595018
+"Nova Specialty Surgery Center, Koramangala","Opus, 143, 1st Cross, 5th Block, Koramangala","12.9337039, 77.6214323",Karnataka,Bengaluru Urban,Allopathic,12.9337039,77.6214323
+Sri Jayadeva Institute of Cardiovascular Sciences and Research,"9th Block, Bannerghatta Road, Jayanagar","12.9168029, 77.6001668",Karnataka,Bengaluru Urban,Allopathic,12.9168029,77.6001668
+Bangalore Baptist Hospital,"Hebbal, Bellary Road","12.9715987, 77.5945627",Karnataka,Bengaluru Urban,Allopathic,12.9715987,77.5945627
+Bangalore Institute of Oncology,"No 8, P.Kalinga Rao Road, Sampangiram Nagar","12.9647552, 77.5908972",Karnataka,Bengaluru Urban,Allopathic,12.9647552,77.5908972
+Bowring and Lady Curzon Hospital,"Lady Curzon Road, Shivaji Nagar","12.9832684, 77.60342",Karnataka,Bengaluru Urban,Allopathic,12.9832684,77.60342
+Vikram Hospital,"No.71/1, Millers Road","-37.870742, 144.83787",Karnataka,Bengaluru Urban,Allopathic,-37.870742,144.83787
+Shekar Nethralaya,"3rd Phase, 633, 100 Feet Ring Road, J.P.Nagar","12.906406, 77.5958928",Karnataka,Bengaluru Urban,Allopathic,12.906406,77.5958928
+Nethradhama Superspeciality Eye Hospital,"256/14, Kanakapura Main Road, 7th Block, Jayanagar","12.925255, 77.577359",Karnataka,Bengaluru Urban,Allopathic,12.925255,77.577359
+Hosmat Hospital,"45, Magrath Road, Off Richmond Road","12.9687069, 77.6145906",Karnataka,Bengaluru Urban,Allopathic,12.9687069,77.6145906
+Marvel hospitals and Fertility centre,"No-8 1st Main, 1st Block Koramangala","12.9266059, 77.6377755",Karnataka,Bengaluru Urban,Allopathic,12.9266059,77.6377755
+"Atreya Ayurvedic Medical College, Hospital and Research Centre","Kakkalli Road, Kodigehalli Post, Doddaballapur Taluk, Bengaluru Rural","13.2846993, 77.6077865",Karnataka,Bengaluru Rural,Ayush/ Ayurveda,13.2846993,77.6077865
+KMC Hospital,Attavar,"12.874305, 74.8550998",Karnataka,Dakshina Kannada,Allopathic,12.874305,74.8550998
+"KMC Hospital, Ambedkar Circle",Ambedkar (Jyothi) Circle,"12.9643509, 80.1411433",Karnataka,Dakshina Kannada,Allopathic,12.9643509,80.1411433
+V Care Hospital,"No.29, 1st Main Road, 1st A Block","29.9947737, 31.3050458",Karnataka,Bengaluru Urban,Allopathic,29.9947737,31.3050458
+"T.D Medical College, Alappuzha",Vandanam,"9.4178085, 76.3512483",Kerala,Alappuzha,Allopathic,9.4178085,76.3512483
+"V.G.Saraf Memorial Hospital 
+","39 /4603, Sreekandath Road, Ravipuram","9.9613612, 76.2885246",Kerala,Ernakulam,Allopathic,9.9613612,76.2885246
+Amrita Institute Of Medical Sciences,"Ponekkara Post, Kochi
+","9.9312328, 76.2673041",Kerala,Ernakulam,Allopathic,9.9312328,76.2673041
+Sree Narayana Institute of Medical Science,"Chalakka, P.O.North Kuthiyathodu, Ernakulam District, Kerala,","10.1715597, 76.2962508",Kerala,Ernakulam,Allopathic,10.1715597,76.2962508
+Don Bosco Hospital,"N.Paravur, Ernakulam Dist, Kochi, Kerala.","10.089171, 76.2450153",Kerala,Ernakulam,Allopathic,10.089171,76.2450153
+Amrita Institute of Medical Sciences (AIMS),"AIMS Ponekkara P.O, Kochi, Kerala.","10.0272282, 76.2985941",Kerala,Ernakulam,Allopathic,10.0272282,76.2985941
+Punarnava Ayurveda Hospital,"Edappally North P.O, Kochi, Kerala.","10.0236761, 76.3116235",Kerala,Ernakulam,Ayush/ Ayurveda,10.0236761,76.3116235
+Lourdes Hospital,"Lourde Hospital Road, Ernakulam, Kochi, Kerala.","10.0079615, 76.2779032",Kerala,Ernakulam,Allopathic,10.0079615,76.2779032
+Malankara Orthodox Syrian Church Medical College (M.O.S.C.M.C),"Ernakulam District, Kolencherry, 
+Kerala.
+","9.9782707, 76.4738971",Kerala,Ernakulam,Allopathic,9.9782707,76.4738971
+Azeezia Medical College,"Meeyannoor P.O., Kollam, 
+Kerala.","8.9076174, 76.7376566",Kerala,Kollam,Allopathic,8.9076174,76.7376566
+A.A.Rahim Memorial District Hospital,"Kollam, Kerala.","8.8932118, 76.6141396",Kerala,Kollam,Allopathic,8.8932118,76.6141396
+CHC Neendakara,"Puthenthura P.O-Neendakara, Kerala.","8.9443198, 76.5401527",Kerala,Kollam,Allopathic,8.9443198,76.5401527
+Dr. A.Shahul Hammed Superintend Taluk Hospital,"Taluk Hospital Punalur, Kerala.","9.009768, 76.9297354",Kerala,Kollam,Allopathic,9.009768,76.9297354
+GovernmentRama Rao Hospital,"Nedungolam, Nedungolam, Kollam, Kerala.","8.8363607, 76.6845832",Kerala,Kollam,Allopathic,8.8363607,76.6845832
+GovernmentVictoriya Hospital,"Kollam Bazar, Kollam, Kerala.","8.8932118, 76.6141396",Kerala,Kollam,Allopathic,8.8932118,76.6141396
+Taluk Head Quaters Hospital,"Chirayinkeezhu, Thiruvananthapuram, Kerala.","8.6558696, 76.7831744",Kerala,Kollam,Allopathic,8.6558696,76.7831744
+Taluk Hospital Kadakal,"Taluk Hospital Kadakkal, Kerala.","8.8260864, 76.9167664",Kerala,Kollam,Allopathic,8.8260864,76.9167664
+"Government Medical College, Kottayam","Gandhinagar, Kottayam, Kerala.","9.6316054, 76.5228101",Kerala,Kottayam,Allopathic,9.6316054,76.5228101
+"Government Medical College, Kozhikode","Medical College Road Kozhikode, 
+Kerala.","11.2703204, 75.8302854",Kerala,Kozhikode,Allopathic,11.2703204,75.8302854
+Karuna Medical College,"Karuna Medical College, Vilayodi, Chittur, Palakkad, Kerala.","10.7002756, 76.7394237",Kerala,Palakkad,Allopathic,10.7002756,76.7394237
+General Hospital Adoor,"Superintendent GH Adoor, P.O Pathanamthitta, Kerala.","9.2647582, 76.7870414",Kerala,Pathanamthitta,Allopathic,9.2647582,76.7870414
+M.E.S Medical College,"MES Medical College, Palachode Po, Malaparamba, Kolathur, Via Perinthalmanna, Malappuram, Kerala.","10.9755349, 76.2305308",Kerala,Perintalmanna,Allopathic,10.9755349,76.2305308
+Pushpagiri Medical College,"Pushpagiri Group of Institutions 
+Thiruvalla, Kerala.","9.3834522, 76.574057",Kerala,Pathanamthitta,Allopathic,9.3834522,76.574057
+"Government Medical College, Thiruvananthapuram","Trivandrum Medical College, 
+Medical College PO, Thiruvananthapuram, Kerala.","8.5241391, 76.9366376",Kerala,Thiruvananthapuram,Allopathic,8.5241391,76.9366376
+"Government Medical College, Thrissur","Mulamkunnathukavu, Kerala.","10.590648, 76.2129226",Kerala,Thrissur,Allopathic,10.590648,76.2129226
+Amala Institute of Medical Sciences,"Amala Medical College
+Amala Nagar, Thrissur, Kerala.","10.5640202, 76.1711283",Kerala,Thrissur,Allopathic,10.5640202,76.1711283
+"CGHS, Dispensary No.1","3/120, Kesavadasapuram","8.5292277, 76.9398195",Kerala,Thiruvananthapuram,Allopathic,8.5292277,76.9398195
+Sree Gokulam Medical College and Research Foundation,"Sree Gokulam Medical College, Venjaramoodu, P.O-Trivandrum, Kerala.","8.5241391, 76.9366376",Kerala,Thiruvananthapuram,Allopathic,8.5241391,76.9366376
+Bombay Hospital,"Ring Road, Indore, Madhya Pradesh.","22.6941587, 75.8279695",Madhya Pradesh,Indore,Allopathic,22.6941587,75.8279695
+CHL Hospitals,"A.B.Road, Near L.I.G Square, Indore, Madhya Pradesh.","22.6919422, 75.8665303",Madhya Pradesh,Indore,Allopathic,22.6919422,75.8665303
+Vishesh Hospital,"Near Geeta Bhawan Chouraha, A.B.Road, Indore, Madhya Pradesh.","22.7195687, 75.8577258",Madhya Pradesh,Indore,Allopathic,22.7195687,75.8577258
+Gokuldas Hospital,"Sarju Prasad Marg, Indore, Madhya Pradesh.","22.7195687, 75.8577258",Madhya Pradesh,Indore,Allopathic,22.7195687,75.8577258
+Choithram Hospital and Research Centre,"Manik Bagh Road, Indore, Madhya Pradesh.","22.6957659, 75.8547941",Madhya Pradesh,Indore,Allopathic,22.6957659,75.8547941
+Sahaj Hospital,"15/2, South Tukogani, Near manas Bhawan, Indore, Madhya Pradesh.","22.7166872, 75.8739793",Madhya Pradesh,Indore,Allopathic,22.7166872,75.8739793
+Beams Hospitals,"15/2 South Tukoganj, Near Surya Hotel, Indore, Madhya Pradesh.","22.7195687, 75.8577258",Madhya Pradesh,Indore,Allopathic,22.7195687,75.8577258
+Arihant Hospital and Research Center,"Situated in 283 - A, Gumasta Nagar, Indore, Madhya Pradesh.","22.700988, 75.829832",Madhya Pradesh,Indore,Allopathic,22.700988,75.829832
+Suyash Hospital,"Opposite M.G.M Medical college, A.B.Road, Indore, Madhya Pradesh.","22.7989708, 75.9349835",Madhya Pradesh,Indore,Allopathic,22.7989708,75.9349835
+Rajshree Hospitals,"Scheme No.74 C, Sector D, Vijay Nagar, Indore, Madhya Pradesh.","22.764179, 75.8862749",Madhya Pradesh,Indore,Allopathic,22.764179,75.8862749
+Dr.Hardia Eye Hospital,"69, Hardia Compound, Indore, Madhya Pradesh.","22.7195687, 75.8577258",Madhya Pradesh,Indore,Allopathic,22.7195687,75.8577258
+Varma Union Hospital,"Dhar Road, OppositeKastur cinema, Indore, Madhya Pradesh.","22.7195687, 75.8577258",Madhya Pradesh,Indore,Allopathic,22.7195687,75.8577258
+Mohak Hitech Speciality Hospital,"Sri Aurobindo Institute of Campus, Near M R 10 Crossing, Sanwer Road, Indore Ujjain State Highway, Indore, Madhya Pradesh.","22.7195687, 75.8577258",Madhya Pradesh,Indore,Allopathic,22.7195687,75.8577258
+Gurjar Hospital and Endoscopy Centre,"2/3, Sheme No - 44, A.B.Road, Bhanwarkua Square, Indore, Madhya Pradesh.","22.7195687, 75.8577258",Madhya Pradesh,Indore,Allopathic,22.7195687,75.8577258
+Gurjar Hospital and Endoscopy Centre,"102, Silver Sanchora Castle, Opposite Indore University, Behind Modi Petrol Pump, R N T Marg, Indore, Madhya Pradesh.","22.7125132, 75.8754389",Madhya Pradesh,Indore,Allopathic,22.7125132,75.8754389
+Greater Kailash Hospital,"11/2, Old Palasia, Indore, Madhya Pradesh.","22.731337, 75.876914",Madhya Pradesh,Indore,Allopathic,22.731337,75.876914
+Sri Auriboindo Institute of Medical Sciences,"Indore Ujjain State Highway, Near MR 10 Crossing, Indore, Madhya Pradesh.","22.7898854, 75.8472972",Madhya Pradesh,Indore,Allopathic,22.7898854,75.8472972
+Indore Eye Hospital,"Behind Gangwal Bus stand, Dhar road, M.O.G.Lines, Indore, Madhya Pradesh.","22.7125956, 75.8411395",Madhya Pradesh,Indore,Allopathic,22.7125956,75.8411395
+Aadya Hospital,"Aadya Hospital, Indore, Madhya Pradesh.","22.7195687, 75.8577258",Madhya Pradesh,Indore,Allopathic,22.7195687,75.8577258
+Synergy Hospital,"Vijay Nagar, Indore, Madhya Pradesh.","22.7684301, 75.8957024",Madhya Pradesh,Indore,Allopathic,22.7684301,75.8957024
+Life Line Hospital,"14, Anoop Nagar, A.B.Road, M.I.G.Circle, Indore, Madhya Pradesh.","22.7341758, 75.890173",Madhya Pradesh,Indore,Allopathic,22.7341758,75.890173
+Life Care Hospital,"Scheme No.78, Vijay Nagar, Indore, Madhya Pradesh.","22.7644564, 75.8858062",Madhya Pradesh,Indore,Allopathic,22.7644564,75.8858062
+Medicare Hospital and Research Centre,"4/5, Old Palasia, Ravindra Nagar, Indore, Madhya Pradesh.","22.721423, 75.893038",Madhya Pradesh,Indore,Allopathic,22.721423,75.893038
+CHL CBCC Cancer Center,"142 Phadnis Colon, A.B.Road, Indore, Madhya Pradesh.","22.7322344, 75.8897847",Madhya Pradesh,Indore,Allopathic,22.7322344,75.8897847
+Unique Hospital,"715 - 716 Vijay Syndicatee, Annapurna Main Road, Indore, Madhya Pradesh.","22.7195687, 75.8577258",Madhya Pradesh,Indore,Allopathic,22.7195687,75.8577258
+Medisquare Hospital,"9, Vishnupuri, A.B.Road, Bhanwarkua Square, Indore, Madhya Pradesh.","22.7195687, 75.8577258",Madhya Pradesh,Indore,Allopathic,22.7195687,75.8577258
+Charak Hospital,"Film Bhawan Rani Sati Gate, Y.N.Road, Indore, Madhya Pradesh.","22.7195687, 75.8577258",Madhya Pradesh,Indore,Allopathic,22.7195687,75.8577258
+"Centre for Sight, Indore","101, Bansiwala Tower, Agrasen Square, Indore, Madhya Pradesh.","22.7030399, 75.8729802",Madhya Pradesh,Indore,Allopathic,22.7030399,75.8729802
+Mayur Hospital and Research Centre,"Sch No - 94, Ring Road, Near Bengali Chouraha, Indore, Madhya Pradesh.","22.7195687, 75.8577258",Madhya Pradesh,Indore,Allopathic,22.7195687,75.8577258
+"Centre for Sight, Indore","101, Bansiwala tower, Agrasen square, Indore, Madhya Pradesh.","22.7030399, 75.8729802",Madhya Pradesh,Indore,Allopathic,22.7030399,75.8729802
+"Breach Candy Hospital, Mumbai","60-A, Bhulabhai Desai Road, Breach Candy, Mumbai, Maharashtra.","18.972711, 72.804394",Maharashtra,Mumbai,Allopathic,18.972711,72.804394
+Cumbala Hill Hospital and Heart Institute,"93/95, August Kranti Marg, August Kranti Maidan, Mumbai, Maharashtra.","18.9624555, 72.8098026",Maharashtra,Mumbai,Allopathic,18.9624555,72.8098026
+Asian Heart Institute And Research Center,"G/N Block, Opposite ICICI Tower, Bandra Kurla Complex, Bandra(E), Mumbai, Maharashtra.","19.06413, 72.861656",Maharashtra,Mumbai,Allopathic,19.06413,72.861656
+Lilavati Hospital and Research Center,"A-791, Bandra Reclamation, Bandra(W), Mumbai, Maharashtra.","19.0515721, 72.8346314",Maharashtra,Mumbai,Allopathic,19.0515721,72.8346314
+Tata Memorial Hospital,"Dr.E Borges Road, Parel, Mumbai, Maharashtra.","19.0041141, 72.8426707",Maharashtra,Mumbai,Allopathic,19.0041141,72.8426707
+Bhatia General Hospital,"Chikalwadi, J Dadaji Road, Tardeo, Mumbai, Maharashtra.","18.9664679, 72.8152953",Maharashtra,Mumbai,Allopathic,18.9664679,72.8152953
+Seven Hills Hospital,"Marol Maroshi Road, Next to Marol-Maroshi Bus Depot, Andheri-East, Mumbai, Maharashtra.","19.1154908, 72.8726952",Maharashtra,Mumbai,Allopathic,19.1154908,72.8726952
+Bombay Hospital And Medical Research Center,"12, New Marine Lines, Marine Lines, Mumbai, Maharashtra.","18.941002, 72.827324",Maharashtra,Mumbai,Allopathic,18.941002,72.827324
+P.D.Hinduja National Hospital and Research center,"Veer Savarkar Marg, Mahim, Mumbai, Maharashtra.","19.0374901, 72.8390644",Maharashtra,Mumbai,Allopathic,19.0374901,72.8390644
+Saifee Hospital,"15/17, Maharshi Karve Marg, Girgaon, Mumbai, Maharashtra.","18.952508, 72.818199",Maharashtra,Mumbai,Allopathic,18.952508,72.818199
+"Fortis Hospitals, Mulund","Mulund Goregaon Link Road, Mumbai, Maharashtra.","19.1918191, 72.8348753",Maharashtra,Mumbai,Allopathic,19.1918191,72.8348753
+Jaslok Hospital And Medical Research Institute,"15, Dr.G.Deshmukh Marg, Pedder Road, Cumballa Hill, Mumbai, Maharashtra.","18.9755757, 72.8097374",Maharashtra,Mumbai,Allopathic,18.9755757,72.8097374
+Criticare Multispeciality Hospital and Research Centre,"Plot No38/39, Opposite Juhu Supreme Shopping Centre, Main Gulmohar Road, Andheri (W), Mumbai, Maharashtra.","19.1145832, 72.8358707",Maharashtra,Mumbai,Allopathic,19.1145832,72.8358707
+Surana Sethia Hospital and Research Centre,"Sumannagar, Sion Trombay Road, Chembur, Mumbai, Maharashtra.","19.0536352, 72.8851743",Maharashtra,Mumbai,Allopathic,19.0536352,72.8851743
+Balaji Hospital,"Victoria Road, Cross Lane III, Byculla (E), Mumbai, Maharashtra.","18.9767706, 72.8350652",Maharashtra,Mumbai,Allopathic,18.9767706,72.8350652
+Kokilaben Dhirubhai Ambani Hospital and Medical Research Institute,"Rao Saheb Achutrao Patwardhan Marg, Four Bunglows, Andheri (W), Mumbai, Maharashtra.","19.1363246, 72.82766",Maharashtra,Mumbai,Allopathic,19.1363246,72.82766
+Aditya Jyot Eye Hospital,"Plot No.153, Road No.9, Major Parameshwaran Road, Opposite Siws College, Wadala(W), Mumbai, Maharashtra.","19.0164103, 72.855261",Maharashtra,Mumbai,Allopathic,19.0164103,72.855261
+Shree Bidada Sarvodaya Trust Hospital,"286-B, Dr.Ambedkar Road, Further To Bharatmata Cinema, Near H.P.Petrol Pump, Parel, Mumbai, Maharashtra.","19.0021567, 72.8415793",Maharashtra,Mumbai,Allopathic,19.0021567,72.8415793
+Bombay City Eye Institute and Research Centre,"Apex centre, 5 Babulnath Road, OppositeBabulnath Temple, Grant Road, Mumbai, Maharashtra.","18.9629992, 72.8175748",Maharashtra,Mumbai,Allopathic,18.9629992,72.8175748
+The B.D.Petit Parsee General Hospital,"Bomanjee Petit Road, Cumballa Hill, Mumbai, Maharashtra.","18.9668749, 72.805182",Maharashtra,Mumbai,Allopathic,18.9668749,72.805182
+"Centre For Sight, Juhu","B201, Dhruv, OppositeGagandeep, Main Road, Juhu, Vile Parle (West).Mumbai, Maharashtra.","19.1102949, 72.8409693",Maharashtra,Mumbai,Allopathic,19.1102949,72.8409693
+Asian Heart Institute,"G / N Block, Bandra Kurla Complex, Bandra (E), Mumbai, Maharashtra.","19.0562207, 72.8537634",Maharashtra,Mumbai,Allopathic,19.0562207,72.8537634
+"CGHS Dispensary No.1, C.G.O.","CGO Building, M.K.Road","34.7414415, 135.4058809",Maharashtra,Mumbai,Allopathic,34.7414415,135.4058809
+"CGHS Dispensary No.5, Santacruz","Near Airport Colonu, Santacruz","19.1034191, 72.854365",Maharashtra,Mumbai,Allopathic,19.1034191,72.854365
+"CGHS Dispensary No.6, Ghatkopar","Flat No.25, C.G.S.Colony, Ghatkopar","19.1403981, 72.9379362",Maharashtra,Mumbai,Allopathic,19.1403981,72.9379362
+"CGHS Dispensary No.8, Koliwada","Building No 21, Sector I, Kane Nagar","19.030998, 72.862675",Maharashtra,Mumbai,Allopathic,19.030998,72.862675
+"CGHS Dispensary No.10, Bandra","Plot No.215, 31st Road, Bandra Sadan Annexe, Bandra","19.0606917, 72.8362497",Maharashtra,Mumbai,Allopathic,19.0606917,72.8362497
+"CGHS Dispensary No.11, Byculla","Khan Mansion, Flat NO.1, Victoria Road, Byculla","18.9751131, 72.8298837",Maharashtra,Mumbai,Allopathic,18.9751131,72.8298837
+"CGHS Dispensary No.14, Vakola","PandT Colony, Vakola","19.0788783, 72.8500307",Maharashtra,Mumbai,Allopathic,19.0788783,72.8500307
+"CGHS Dispensary No.17, Bhandup","Flat No.321-322, Type IV CGS Qtrs., Bhandup","19.149901, 72.931134",Maharashtra,Mumbai,Allopathic,19.149901,72.931134
+"CGHS Dispensary No.19, Mulund","Bldg.No.B-2, Type II, PandT colony, Mulund (W)","19.1725542, 72.942537",Maharashtra,Mumbai,Allopathic,19.1725542,72.942537
+"CGHS Dispensary No.21, Sahar","PandT Colony, Sahar, Mumbai","19.1015512, 72.8631724",Maharashtra,Mumbai,Allopathic,19.1015512,72.8631724
+"CGHS Dispensary No.25, Jogeshwari","Bldg.NO.10-12, Income tax Colony, Jogeswari (E)","19.1319685, 72.8607789",Maharashtra,Mumbai,Allopathic,19.1319685,72.8607789
+"CGHS Dispensary No.26, Seepz","Seepz Qtrs.complex, Qrts.No.D-2, Andheri (E)","19.1154908, 72.8726952",Maharashtra,Mumbai,Allopathic,19.1154908,72.8726952
+CGHS Sub-Dispensary Nepean Sea Road,"Hyderabad Estate, N.S.Road","18.9593271, 72.8012627",Maharashtra,Mumbai,Allopathic,18.9593271,72.8012627
+CGHS Polyclinic Koliwada,"Building No.221, Sector I, Kane Nagar","19.0327797, 72.864102",Maharashtra,Mumbai,Allopathic,19.0327797,72.864102
+Aayush Eye Clinic Microsurgery and Laser Centre,"201/202, Coral Classic, Plot no.955/956, 20th Road, Chembur","19.0597308, 72.8989478",Maharashtra,Mumbai,Allopathic,19.0597308,72.8989478
+Abhishek Nursing Home,"Jagruthi Co- operative Housing Society, Ground Floor, Bhatwadi, Ghatkopar West","19.096654, 72.9026801",Maharashtra,Mumbai,"Allopathic, Ayush/ Homeopathy",19.096654,72.9026801
+Aditi Hospital,"90 Feet Road, Thakur Complex, 
+Kandivali East","19.2132136, 72.8637163",Maharashtra,Mumbai,Allopathic,19.2132136,72.8637163
+Amruta Surgical And Maternity Home,"C Wing, 4th Floor, Bhaveshwar Plaza, L.B.S.Marg, Ghatkopar (West)","19.0898792, 72.908696",Maharashtra,Mumbai,Allopathic,19.0898792,72.908696
+Dr. L H Hiranandani Hospital,"Hill Side Avenue, Hiranandani Gardens, Powai","19.1374852, 72.917394",Maharashtra,Mumbai,Allopathic,19.1374852,72.917394
+P D Hinduja National Hospital and Research Centre,"Veer Savarkar Marg, Mahim","19.0374901, 72.8390644",Maharashtra,Mumbai,Allopathic,19.0374901,72.8390644
+Godrej Memorial Hospital,"Pirojshanagar, Vikhroli ( East )","19.0966611, 72.9239095",Maharashtra,Mumbai,Allopathic,19.0966611,72.9239095
+Holy Spirit Hospital,"Holy Spirit hospital, Mahakali caves Road, Andheri east","19.1229678, 72.8641387",Maharashtra,Mumbai,Allopathic,19.1229678,72.8641387
+Lilavati Hospital and Research Centre,"A - 791, Bandra Reclamation, Bandra (West)","19.0515721, 72.8346314",Maharashtra,Mumbai,Allopathic,19.0515721,72.8346314
+Fortis Hiranandani Hospital,"Mini Sea Shore Road, Sector 10 A, Vashi","18.7501386, 73.0420662",Maharashtra,Mumbai,Allopathic,18.7501386,73.0420662
+Jaslok Hospital,"15 - Dr.Deshmukh Marg, Pedder Road","18.9681978, 72.8072647",Maharashtra,Mumbai,Allopathic,18.9681978,72.8072647
+Fortis Hospital Mulund,"Goregaon Link Road, Mulund-West","19.1918191, 72.8348753",Maharashtra,Mumbai,Allopathic,19.1918191,72.8348753
+Seven Hills Hospital,"SevenHills Health City, Marol Maroshi Road, Andheri East","19.1188585, 72.8802146",Maharashtra,Mumbai,Allopathic,19.1188585,72.8802146
+Zynova Heart Hospital,"Near Sarvodaya Hospital, L.B.S.Marg, Ghatkoper (West)","19.0889039, 72.907247",Maharashtra,Mumbai,Allopathic,19.0889039,72.907247
+The Eye Super Specialities,"201, Punit Plaza, Next to Rajawadi Post office, Ghatkopar (East)","19.0796375, 72.9070116",Maharashtra,Mumbai,Allopathic,19.0796375,72.9070116
+Swastik Hospital and Research Centre,"Plot No.22, Swastik Park, Chembur","19.0552812, 72.8892082",Maharashtra,Mumbai,Allopathic,19.0552812,72.8892082
+Sushrut Hospital and Research Centre,"365, Swastik Park, Chembur (East)","19.0552812, 72.8892082",Maharashtra,Mumbai,Allopathic,19.0552812,72.8892082
+Surya Eye Institute and Research Centre Pvt Ltd,"104, Aroto House, P.K.Road, Saidham, Mulund (west)","19.1725542, 72.942537",Maharashtra,Mumbai,Allopathic,19.1725542,72.942537
+Suruchi Eye Centre,"U-123, Near Durga Mata Mandir, Sector 4, Airoli","19.1512887, 72.9985574",Maharashtra,Mumbai,Allopathic,19.1512887,72.9985574
+Suprabha Surgicare,"15, First Floor, Vincent Court, Near Fire Brigade, Opposite Chitra Cinema, Dr.B.Ambedkar Road, Dadar (East)","19.0237817, 72.8502094",Maharashtra,Mumbai,Allopathic,19.0237817,72.8502094
+Sujay Hospital,"25, Gulmohar Park, Gulmohar Road, Juhu Scheme, Vile Parle (West)","19.1160222, 72.8313139",Maharashtra,Mumbai,Allopathic,19.1160222,72.8313139
+Gokul Hospital,"Thakur Complex, Kandivali (East)","19.206396, 72.8656109",Maharashtra,Mumbai,Allopathic,19.206396,72.8656109
+Hinduja Healthcare Surgical,"724, 11th Road, Khar West","19.0685232, 72.8352484",Maharashtra,Mumbai,Allopathic,19.0685232,72.8352484
+Hira Mongi Navneet Hospital,"Valji ladha road, Mulund(west)","19.1709732, 72.9505973",Maharashtra,Mumbai,Allopathic,19.1709732,72.9505973
+Inlaks General Hospital,"Inlaks Chembur Colony, Near Jhana Sweet Shop, Chembur","19.0327996, 72.8963568",Maharashtra,Mumbai,Allopathic,19.0327996,72.8963568
+Jaslok Hospital And Research Centre,"15, Dr G Deshmukh Marg, Peddar Road","18.9681978, 72.8072647",Maharashtra,Mumbai,Allopathic,18.9681978,72.8072647
+Joy Hospital Pvt Ltd,"423 Ab, 10Th Road, Chembur","19.1095683, 72.825288",Maharashtra,Mumbai,Allopathic,19.1095683,72.825288
+Kapadia Multispeciality Hospital,"Manali Alankar Soc., M.G.Road, Goregaon(W), Opposite Raga Hotel","32.2396325, 77.1887145",Maharashtra,Mumbai,Allopathic,32.2396325,77.1887145
+Kokilaben Dhirubhai Ambani Hospital,"Rao Saheb Achutrao Patwardhan Marg, 
+Four Bunglows, Andheri (West)","19.1363246, 72.82766",Maharashtra,Mumbai,Allopathic,19.1363246,72.82766
+Life Care Hospital,"Geeta Nagar, Phase-7, Near Mira Bhayander Flyover, Mira Bhayander Road, Mira road(East)","19.2961387, 72.862607",Maharashtra,Mumbai,Allopathic,19.2961387,72.862607
+Lifeline Hospital,"Vishal Complex, S.V.Road, Malad (West)","19.1938477, 72.8465927",Maharashtra,Mumbai,Allopathic,19.1938477,72.8465927
+Madhu Polyclinic and Nursing Home,"Mini Apartments, Opp Sarvodaya Nagar, 
+Jungle Mangal Road, Bhandup West","19.200861, 72.9643615",Maharashtra,Mumbai,Allopathic,19.200861,72.9643615
+Nanavati Hospital,"S V Rd, Vile Parle","19.094854, 72.839654",Maharashtra,Mumbai,Allopathic,19.094854,72.839654
+Niramaya Holistic Health Services Pvt Ltd,"Plot No.5A, Sector 4, Kharghar","19.0712143, 73.0799855",Maharashtra,Mumbai,Allopathic,19.0712143,73.0799855
+Nulife Hospital,"A1, Harekrishna Bldg., 1st flr, Nr.Telephone Exchange, L.B.S.Marg, Ghatkopar (west)","19.0898792, 72.908696",Maharashtra,Mumbai,Allopathic,19.0898792,72.908696
+Orbit Eye Hospital,"1st Floor, Aftab Classic, Opposite City Hospital, S.V Road, Jogeshwari(West)","19.1405116, 72.8421555",Maharashtra,Mumbai,Allopathic,19.1405116,72.8421555
+Parakh Hospital,"Khokani Lane, Opposite Ghatkopar Railway Station, Ghatkopar East","19.0796375, 72.9070116",Maharashtra,Mumbai,Allopathic,19.0796375,72.9070116
+Paramount General Hospital and ICCU,"Laxmi Commercial Premises, Near Sakinaka Junction, Andheri Kurla Road, Andheri East","19.1198548, 72.8464601",Maharashtra,Mumbai,Allopathic,19.1198548,72.8464601
+Platinum Hospitals,"The Color Scape Shopping Mall, G-103, D D Upadhayay Marg, Near Mulund Check Naka, Mulund West","19.1565109, 72.9637728",Maharashtra,Mumbai,Allopathic,19.1565109,72.9637728
+Punamiya Hospital,"101, Inder Tower Gokhale Road (S), Near Tilak Bhavan, Opposite Ashishind Estate, Dadar (West)","19.0235976, 72.8378125",Maharashtra,Mumbai,Allopathic,19.0235976,72.8378125
+"
+Dr.Mukhi's Raj Hospital","109/1 Saraswati Sadan, Chs, Devi Dayal Road, Opposite Jalaram Ashish, Near T Ward Office, Mulund West","19.1725542, 72.942537",Maharashtra,Mumbai,Allopathic,19.1725542,72.942537
+Rane Heart Hospital,"37, Pestom Sagar, Road No.2, Chembur","19.0691719, 72.902584",Maharashtra,Mumbai,Allopathic,19.0691719,72.902584
+Roshni Eye Hospital,"1st Floor, Shilpa, Next to Vodafone Store, Opp Irla Masjid, C.D.Barfiwala Marg (juhu Lane), Andheri West","19.1198548, 72.8464601",Maharashtra,Mumbai,Allopathic,19.1198548,72.8464601
+Rushabh Eye Hospital And Laser Centre,"RUSHABH', 18th Road, Near Ambedkar Garden, Chembur","19.059862, 72.9005605",Maharashtra,Mumbai,Allopathic,19.059862,72.9005605
+Sai Seva Hospital And Icu,"Row House B1, Sector-4, Infront of CIDCO Water Tank, Airoli","19.157935, 72.9934762",Maharashtra,Mumbai,Allopathic,19.157935,72.9934762
+Saifee Hospital,"15/17, Maharshi Karve Marg","18.952508, 72.818199",Maharashtra,Mumbai,Allopathic,18.952508,72.818199
+Sangita Maternity Surgical and Diagnostic Centre,"11, GangaVihar Residency, 174 S.V.Road","19.1171389, 72.846563",Maharashtra,Mumbai,Allopathic,19.1171389,72.846563
+Sujay Hospital,"25, Gulmohar Park, Gulmohar Road, Juhu Scheme, Vile Parle (West)","19.1160222, 72.8313139",Maharashtra,Mumbai,Allopathic,19.1160222,72.8313139
+Suman Eye Clinic and Surgery Centre,"B/103, Suman Apartment, Near High Point Restaurant, 3rd Cross Road, Lokhandwala Complex, Andheri West","19.1441579, 72.8238595",Maharashtra,Mumbai,Allopathic,19.1441579,72.8238595
+Surana Sethia Hospital and Research Centre,"Suman Nagar, Siontrombay, Chembur, Thane","19.053083, 72.8982503",Maharashtra,Mumbai,Allopathic,19.053083,72.8982503
+CGHS Dispensary No.2,"Civil Lines, CPWD Quarters","21.1679049, 79.0542289",Maharashtra,Nagpur,Allopathic,21.1679049,79.0542289
+"CGHS Dispensary No.
+2A","Seminary Hills, CPWD Quarters","21.1679049, 79.0542289",Maharashtra,Nagpur,Allopathic,21.1679049,79.0542289
+CGHS Dispensary No.3,"Pachpaoli, Near Kamal Talkies","21.1693074, 79.1086559",Maharashtra,Nagpur,Allopathic,21.1693074,79.1086559
+CGHS Dispensary No.4,"Itwari, Ganga Bhavan, Tel.
+Exchange Square","21.1538784, 79.1111018",Maharashtra,Nagpur,Allopathic,21.1538784,79.1111018
+Aditya Birla Memorial Hospital,"Aditya Birla Hospital Marg, Chinchwad, Pune, Maharashtra.","18.615727, 73.7656094",Maharashtra,Pune,Allopathic,18.615727,73.7656094
+"Columbia Asia Hospital, Pune","22/2A, Near Nyati Empire, 
+Kharadi Bypass Road, Kharadi, 
+Pune, Maharashtra.","18.5492705, 73.9368257",Maharashtra,Pune,Allopathic,18.5492705,73.9368257
+Sahyadri Hospital,"30C, Erandawane, Karve Road, Deccan Gymkhana, Pune, Maharashtra.","18.5076495, 73.8295031",Maharashtra,Pune,Allopathic,18.5076495,73.8295031
+CIMETs Inamdar Multispeciality Hospital,"Hospital Building S.No 15, Fatima Nagar, Pune, Maharashtra.","18.5042104, 73.9014439",Maharashtra,Pune,Allopathic,18.5042104,73.9014439
+Jehangir Hospital,"32, Sassoon Road, Pune, Maharashtra.","18.5302599, 73.876847",Maharashtra,Pune,Allopathic,18.5302599,73.876847
+Sancheti Institute for Orthopedic and Rehabilitation,"16, Shivaji Nagar, Pune, Maharashtra, Phone-","18.5297988, 73.8386901",Maharashtra,Pune,Allopathic,18.5297988,73.8386901
+Inlaks Budhrani Hospital,"7 - 9, Koregaon Park, Pune.","18.534261, 73.88542",Maharashtra,Pune,"Allopathic, Ayush/ Ayurveda/ Homeopathy",18.534261,73.88542
+Kem Hospital,"489 Rasta Peth, Sardar Moodliar Road, Pune, Maharashtra.","18.519888, 73.867026",Maharashtra,Pune,Allopathic,18.519888,73.867026
+Ruby Hall Clinic,"40 Sassoon Road, Pune, Maharashtra.","18.5276554, 73.8748181",Maharashtra,Pune,Allopathic,18.5276554,73.8748181
+Chaitanya Stem Cell Center,"Rahi Sakha Apt., S.No.133, Pune - Sinhagad Road, Parvati, Pune.","18.5204303, 73.8567437",Maharashtra,Pune,Allopathic,18.5204303,73.8567437
+Deenanath mangeshkar Hospital,"Erandawne, Pune, Maharashtra.","18.5085936, 73.831721",Maharashtra,Pune,Allopathic,18.5085936,73.831721
+N.M.Wadia Institute Of Cardiology,"32, Sassoon Road, Pune, Maharashtra.","18.5302599, 73.876847",Maharashtra,Pune,Allopathic,18.5302599,73.876847
+Sai Sneh Hospital,"Pune-Satara highway, Opposite PMT Bus depot, Katraj, Pune, Maharashtra.","18.4988776, 73.8572059",Maharashtra,Pune,Allopathic,18.4988776,73.8572059
+Vora Multispeciality Dental Clinic And Implant Centre,"Flat No 5 567/4a Shivam Apartment Vastu Nagar Society, Bibvewadi Kondhwa Road, Bibvewadi, Pune, Maharashtra.","18.4609513, 73.8693561",Maharashtra,Pune,Allopathic,18.4609513,73.8693561
+Niramaya Hospital,"Survey No.4742, Behind Jai Hind Petrol Pump, Next to Chinchwad (E) Post Office, Chinchwad, Pune, Maharashtra.","18.6297811, 73.7997094",Maharashtra,Pune,Allopathic,18.6297811,73.7997094
+B.J.Medical College and Sassoon Hospital,"Near Pune Railway Station, Pune, Maharashtra.","18.527306, 73.873153",Maharashtra,Pune,Allopathic,18.527306,73.873153
+Sai Shree Hospital,"251/252, Opposite Telephone Exchange, Near Parihar Chowk, Aundh, Pune, Maharashtra.","18.558007, 73.8075201",Maharashtra,Pune,Allopathic,18.558007,73.8075201
+Chavan hospital,"54, Stadium Road, Vastu Udyog - Ajmera Corner, Pimpri, Pune, Maharashtra.","18.6297811, 73.7997094",Maharashtra,Pune,Allopathic,18.6297811,73.7997094
+CGHS Dispensary No.4,"23, Mangalwar Peth","18.5240566, 73.8646945",Maharashtra,Pune,Allopathic,18.5240566,73.8646945
+CGHS Dispensary No.5,"Armament Colony, Banashwada Road","18.5504471, 73.820586",Maharashtra,Pune,Allopathic,18.5504471,73.820586
+CGHS Dispensary No.7,"Swasthya Sadan, Mukund Nagar","18.4957425, 73.8611312",Maharashtra,Pune,Allopathic,18.4957425,73.8611312
+CGHS Polyclinic,"Swasthya Sadan, Mukund Nagar","18.4957425, 73.8611312",Maharashtra,Pune,Allopathic,18.4957425,73.8611312
+Sancheti Institute For Orthopaedics and Rehabilitation,"11/12 Thube Park, 16, Shivaji Nagar","18.5304995, 73.8520486",Maharashtra,Pune,Allopathic,18.5304995,73.8520486
